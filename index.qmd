@@ -1,0 +1,36 @@
+---
+title: "Zeki Akyol"
+description: "Personal Website"
+image: profile.png
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 15em
+  image-shape: round
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/zekiakyol
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/zekiakyol0
+---
+
+:::{#hero-heading}
+
+##### **About**
+
+Hi! I am a master’s student in the Department of Economics at Istanbul Technical University, Turkey.
+
+##### **Research Interests**
+
+- Causal Inference & Econometrics
+- Labor Economics
+- Economics of Migration
+- Development Economics
+
+##### **Contact:**
+
+akyolz19 [at] itu [dot] edu [dot] tr
+
+:::

@@ -1,0 +1,46 @@
+---
+title: "Teaching Experience"
+---
+
+I am/was the teaching assistant for the following courses at
+
+### **Istanbul Technical University**
+
+::: {.d-flex .justify-content-between}
+::: {}
+- **Economics (Undergraduate)** Exam/class/proctor organization for ~ 2000 students <br>
+- **Research Methods in Economics-II** (Graduate) R labs & Problem sessions <br>
+- **Econometrics-II (Undergraduate)** R labs & Problem sessions <br>
+- **Economics (Undergraduate)** Exam/class/proctor organization for 2000 students <br>
+- **Research Methods in Economics-I (Graduate)** R labs & Problem sessions <br>
+- **Econometrics-I (Undergraduate)** R labs & Problem sessions <br>
+- **Mathematical Economics (Undergraduate)** Problem sessions <br>
+- **Introduction to Programming Language Python (Undergraduate)** Python labs <br>
+- **Economics (Undergraduate)** Exam/class/proctor organization for 2000 students <br>
+- **Economics (Undergraduate)** Exam/class/proctor organization for 2000 students <br>
+- **Research Methods in Economics-II (Graduate)** R labs & Problem sessions <br>
+- **Econometrics-II (Undergraduate)** R labs & Problem sessions <br>
+- **Intermediate Macroconomics (Undergraduate)** Problem sessions <br>
+- **Economics (Undergraduate)** Exam/class/proctor organization for 2000 students <br>
+- **Research Methods in Economics-I (Graduate)** R labs & Problem sessions <br>
+- **Econometrics-I (Undergraduate)** R labs & Problem sessions <br>
+:::
+::: {.text-end}
+(Summer 2022) <br>
+(Spring 2022) <br>
+(Spring 2022) <br>
+(Spring 2022) <br>
+(Fall 2021) <br>
+(Fall 2021) <br>
+(Fall 2021) <br>
+(Fall 2021) <br>
+(Fall 2021) <br>
+(Summer 2021) <br>
+(Spring 2021) <br>
+(Spring 2021) <br>
+(Spring 2021) <br>
+(Spring 2021) <br>
+(Fall 2020) <br>
+(Fall 2020) <br>
+:::
+:::

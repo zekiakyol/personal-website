@@ -1,0 +1,30 @@
+project:
+  type: website
+
+website:
+  title: "Zeki Akyol"
+  description: "Personal website"
+  site-url: https://zekiakyol.com
+  repo-url: https://github.com/zekiakyol/personal-website
+  navbar:
+    pinned: true
+    background: dark
+    foreground: light
+    left: 
+      - text: "Home"
+        file: index.qmd
+      # - text: "Research"
+      #  file: research.qmd
+      - text: "Teaching"
+        file: teaching.qmd
+      #- text: "Blog"
+      #  file: blog.qmd
+    right:
+      - icon: github
+        href: https://github.com/zekiakyol
+      - icon: twitter
+        href: https://twitter.com/zekiakyol0
+format:
+  html:
+    theme: cosmo
+    css: styles.css
