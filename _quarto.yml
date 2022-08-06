@@ -16,13 +16,10 @@ website:
         file: index.qmd
       - text: "Research"
         file: research.qmd
-        href: https://zekiakyol.com/research
       - text: "Teaching"
         file: teaching.qmd
-        href: https://zekiakyol.com/teaching
       - text: "Blog"
         file: blog.qmd
-        href: https://zekiakyol.com/blog
     right:
       - icon: github
         href: https://github.com/zekiakyol
@@ -30,8 +27,7 @@ website:
         href: https://twitter.com/zekiakyol0
       - icon: youtube
         href: https://www.youtube.com/channel/UCg4zn4AWLkuAmsPuatG6XLw
-    margin-footer: | 
-      This page brought to you by <https://example.com>
+
 format:
   html:
     theme: cosmo
