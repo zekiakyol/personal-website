@@ -1,46 +1,70 @@
 ---
 title: "Teaching Experience"
+page-layout: article
 ---
+
+```{r}
+#| include: false
+library(fontawesome)
+```
 
 I am/was the teaching assistant for the following courses at
 
-### **Istanbul Technical University**
+### `r fa("landmark")`  **Istanbul Technical University**
 
 ::: {.d-flex .justify-content-between}
 ::: {}
-- **Economics (Undergraduate)** Exam/class/proctor organization for ~ 2000 students <br>
-- **Research Methods in Economics-II** (Graduate) R labs & Problem sessions <br>
-- **Econometrics-II (Undergraduate)** R labs & Problem sessions <br>
-- **Economics (Undergraduate)** Exam/class/proctor organization for 2000 students <br>
-- **Research Methods in Economics-I (Graduate)** R labs & Problem sessions <br>
-- **Econometrics-I (Undergraduate)** R labs & Problem sessions <br>
-- **Mathematical Economics (Undergraduate)** Problem sessions <br>
-- **Introduction to Programming Language Python (Undergraduate)** Python labs <br>
-- **Economics (Undergraduate)** Exam/class/proctor organization for 2000 students <br>
-- **Economics (Undergraduate)** Exam/class/proctor organization for 2000 students <br>
-- **Research Methods in Economics-II (Graduate)** R labs & Problem sessions <br>
-- **Econometrics-II (Undergraduate)** R labs & Problem sessions <br>
-- **Intermediate Macroconomics (Undergraduate)** Problem sessions <br>
-- **Economics (Undergraduate)** Exam/class/proctor organization for 2000 students <br>
-- **Research Methods in Economics-I (Graduate)** R labs & Problem sessions <br>
-- **Econometrics-I (Undergraduate)** R labs & Problem sessions <br>
+- **Economics (Undergraduate)**  <br>
+  Exam/class/proctor organization for ~2000 students <br>
+- **Research Methods in Economics-II (Graduate)** <br>
+  R labs & Problem sessions <br>
+- **Econometrics-II (Undergraduate)** <br>
+  R labs & Problem sessions <br>
+- **Economics (Undergraduate)** <br>
+  Exam/class/proctor organization for ~2000 students <br>
+- **Research Methods in Economics-I (Graduate)** <br>
+  R labs & Problem sessions <br>
+- **Econometrics-I (Undergraduate)** <br>
+  R labs & Problem sessions <br>
+- **Mathematical Economics (Undergraduate)** <br>
+  Problem sessions <br>
+- **Introduction to Programming Language Python (Undergraduate)** <br>
+  Python labs <br>
+- **Economics (Undergraduate)** <br>
+  Exam/class/proctor organization for ~2000 students <br>
+- **Economics (Undergraduate)** <br>
+  Exam/class/proctor organization for ~2000 students <br>
+- **Research Methods in Economics-II (Graduate)** <br>
+  R labs & Problem sessions <br>
+- **Econometrics-II (Undergraduate)** <br>
+  R labs & Problem sessions <br>
+- **Intermediate Macroconomics (Undergraduate)** <br>
+  Problem sessions <br>
+- **Economics (Undergraduate)** <br>
+  Exam/class/proctor organization for ~2000 students <br>
+- **Research Methods in Economics-I (Graduate)** <br>
+  R labs & Problem sessions <br>
+- **Econometrics-I (Undergraduate)** <br>
+  R labs & Problem sessions <br>
 :::
 ::: {.text-end}
-(Summer 2022) <br>
-(Spring 2022) <br>
-(Spring 2022) <br>
-(Spring 2022) <br>
-(Fall 2021) <br>
-(Fall 2021) <br>
-(Fall 2021) <br>
-(Fall 2021) <br>
-(Fall 2021) <br>
-(Summer 2021) <br>
-(Spring 2021) <br>
-(Spring 2021) <br>
-(Spring 2021) <br>
-(Spring 2021) <br>
-(Fall 2020) <br>
-(Fall 2020) <br>
+(Summer 2022) <br> <br>
+(Spring 2022) <br> <br>
+(Spring 2022) <br> <br>
+(Spring 2022) <br> <br>
+(Fall 2021) <br> <br>
+(Fall 2021) <br> <br>
+(Fall 2021) <br> <br>
+(Fall 2021) <br> <br>
+(Fall 2021) <br> <br>
+(Summer 2021) <br> <br>
+(Spring 2021) <br> <br>
+(Spring 2021) <br> <br>
+(Spring 2021) <br> <br>
+(Spring 2021) <br> <br>
+(Fall 2020) <br> <br>
+(Fall 2020) <br> <br>
 :::
 :::
+
+Our Econometrics R labs and problem sets with [Assoc. Prof. Aysegul Kayaoglu](https://sites.google.com/view/aysegulkayaoglu){target="_blank"} will be available at [https://github.com/zekiakyol](https://github.com/zekiakyol){target="_blank"} soon!

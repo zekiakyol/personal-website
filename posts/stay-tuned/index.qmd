@@ -1,0 +1,11 @@
+---
+title: "Stay tuned!"
+author: "Zeki Akyol"
+date: ""
+categories: []
+# image: "thumbnail.png"
+---
+
+.
+
+![](https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif){width=60%}

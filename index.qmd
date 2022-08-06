@@ -8,16 +8,18 @@ about:
   image-width: 15em
   image-shape: round
   links:
-    - icon: github
-      text: GitHub
-      href: https://github.com/zekiakyol
     - icon: twitter
       text: Twitter
       href: https://twitter.com/zekiakyol0
+    - icon: github
+      text: GitHub
+      href: https://github.com/zekiakyol
+    - icon: youtube
+      text: YouTube
+      href: https://www.youtube.com/channel/UCg4zn4AWLkuAmsPuatG6XLw
 ---
 
 :::{#hero-heading}
-
 ##### **About**
 
 Hi! I am a master’s student in the Department of Economics at Istanbul Technical University, Turkey.
@@ -29,8 +31,12 @@ Hi! I am a master’s student in the Department of Economics at Istanbul Technic
 - Economics of Migration
 - Development Economics
 
+##### **Computer Skills**
+
+- **Fluent:** R & R Markdown, Stata, $\LaTeX$ & Ti*k*Z, git, Regular Expressions, Microsoft Office
+- **Familiar:** Python, Quarto, C++(for Rcpp), Bash, Adobe Products
+
 ##### **Contact:**
 
-akyolz19 [at] itu [dot] edu [dot] tr
-
+**akyolz19** [at] **itu** [dot] **edu** [dot] **tr**
 :::

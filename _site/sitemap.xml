@@ -2,18 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://zekiakyol.com/index.html</loc>
-    <lastmod>2022-08-05T20:27:24.074Z</lastmod>
+    <lastmod>2022-08-06T07:50:10.094Z</lastmod>
   </url>
   <url>
     <loc>https://zekiakyol.com/teaching.html</loc>
-    <lastmod>2022-08-05T20:27:32.501Z</lastmod>
+    <lastmod>2022-08-06T07:54:38.462Z</lastmod>
   </url>
   <url>
     <loc>https://zekiakyol.com/blog.html</loc>
-    <lastmod>2022-08-05T20:20:59.393Z</lastmod>
+    <lastmod>2022-08-06T00:19:13.685Z</lastmod>
   </url>
   <url>
     <loc>https://zekiakyol.com/research.html</loc>
-    <lastmod>2022-08-05T20:27:21.869Z</lastmod>
+    <lastmod>2022-08-06T07:37:41.899Z</lastmod>
+  </url>
+  <url>
+    <loc>https://zekiakyol.com/posts/welcome/index.html</loc>
+    <lastmod>2022-08-05T23:37:14.158Z</lastmod>
+  </url>
+  <url>
+    <loc>https://zekiakyol.com/posts/post-with-code/index.html</loc>
+    <lastmod>2022-08-06T00:15:04.027Z</lastmod>
+  </url>
+  <url>
+    <loc>https://zekiakyol.com/posts/stay-tuned/index.html</loc>
+    <lastmod>2022-08-06T00:16:40.412Z</lastmod>
   </url>
 </urlset>

@@ -4,6 +4,7 @@ project:
 website:
   title: "Zeki Akyol"
   description: "Personal website"
+  favicon: logo.png
   site-url: https://zekiakyol.com
   repo-url: https://github.com/zekiakyol/personal-website
   navbar:
@@ -13,8 +14,8 @@ website:
     left: 
       - text: "Home"
         file: index.qmd
-      # - text: "Research"
-      #  file: research.qmd
+      - text: "Research"
+        file: research.qmd
       - text: "Teaching"
         file: teaching.qmd
       #- text: "Blog"
@@ -24,7 +25,12 @@ website:
         href: https://github.com/zekiakyol
       - icon: twitter
         href: https://twitter.com/zekiakyol0
+      - icon: youtube
+        href: https://www.youtube.com/channel/UCg4zn4AWLkuAmsPuatG6XLw
+    margin-footer: | 
+      This page brought to you by <https://example.com>
 format:
   html:
     theme: cosmo
     css: styles.css
+    linkcolor: blue
