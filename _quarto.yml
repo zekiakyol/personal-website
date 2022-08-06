@@ -16,10 +16,13 @@ website:
         file: index.qmd
       - text: "Research"
         file: research.qmd
+        href: https://zekiakyol.com/research
       - text: "Teaching"
         file: teaching.qmd
-      #- text: "Blog"
-      #  file: blog.qmd
+        href: https://zekiakyol.com/teaching
+      - text: "Blog"
+        file: blog.qmd
+        href: https://zekiakyol.com/blog
     right:
       - icon: github
         href: https://github.com/zekiakyol
