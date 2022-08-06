@@ -28,7 +28,7 @@ I am/was the teaching assistant for the following courses at
   R labs & Problem sessions <br>
 - **Mathematical Economics (Undergraduate)** <br>
   Problem sessions <br>
-- **Introduction to Programming Language Python (Undergraduate)** <br>
+- **Introduction to Prog. Lang. Python (Undergraduate)** <br>
   Python labs <br>
 - **Economics (Undergraduate)** <br>
   Exam/class/proctor organization for ~2000 students <br>
