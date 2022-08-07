@@ -3,7 +3,7 @@ project:
 
 website:
   title: "Zeki Akyol"
-  description: "Personal website"
+  description: "Personal Website"
   favicon: favicon.png
   site-url: https://zekiakyol.com
   repo-url: https://github.com/zekiakyol/personal-website
