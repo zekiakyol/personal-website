@@ -8,7 +8,7 @@ page-layout: article
 library(fontawesome)
 ```
 
-I am/was the teaching assistant for the following courses at
+I am/was the solo teaching assistant for the following courses at
 
 ### `r fa("landmark")`  **Istanbul Technical University**
 
