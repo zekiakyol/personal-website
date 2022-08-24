@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://zekiakyol.com/index.html</loc>
-    <lastmod>2022-08-07T15:33:53.219Z</lastmod>
+    <lastmod>2022-08-24T20:33:03.062Z</lastmod>
   </url>
   <url>
     <loc>https://zekiakyol.com/teaching.html</loc>
-    <lastmod>2022-08-07T08:05:25.691Z</lastmod>
+    <lastmod>2022-08-24T20:21:47.498Z</lastmod>
   </url>
   <url>
     <loc>https://zekiakyol.com/blog.html</loc>
-    <lastmod>2022-08-07T08:05:28.336Z</lastmod>
+    <lastmod>2022-08-24T20:33:09.680Z</lastmod>
   </url>
   <url>
     <loc>https://zekiakyol.com/research.html</loc>
-    <lastmod>2022-08-06T09:09:38.782Z</lastmod>
+    <lastmod>2022-08-24T20:33:05.920Z</lastmod>
   </url>
   <url>
     <loc>https://zekiakyol.com/posts/welcome/index.html</loc>
@@ -27,5 +27,9 @@
   <url>
     <loc>https://zekiakyol.com/posts/stay-tuned/index.html</loc>
     <lastmod>2022-08-06T09:09:45.019Z</lastmod>
+  </url>
+  <url>
+    <loc>https://zekiakyol.com/posts/understanding-missing-values-in-regression/index.html</loc>
+    <lastmod>2022-08-24T20:20:52.271Z</lastmod>
   </url>
 </urlset>

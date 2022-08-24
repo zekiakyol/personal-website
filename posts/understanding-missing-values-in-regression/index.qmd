@@ -1,0 +1,34 @@
+---
+title: "Understanding Missing Values in Regression"
+subtitle: "An example in R to avoid common pitfalls"
+author: 
+  - name: "Zeki Akyol"
+    affiliations: "Department of Economics, Istanbul Technical University"
+#date: "September, 2022"
+categories: [R, Missing Values, Regression]
+image: https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif
+highlight-style: tango
+knitr:
+  opts_chunk: 
+    message: false
+    fig.align: center
+    comment: "#>"
+format:
+  html: 
+    fontsize: 12pt
+    toc: true
+    toccolor: blue
+    number-sections: true
+    colorlinks: true
+    urlcolor: magenta
+    citecolor: blue
+    execute:
+      echo: true
+      warning: false
+---
+
+\newpage
+
+This blog post is about understanding missing value mechanism in a regression setting. After understanding this machanism, I will mention common pitfalls to aviod in data subsetting.
+
+[Under construction for now!]

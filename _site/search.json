@@ -11,7 +11,7 @@
     "href": "blog.html",
     "title": "Blog (in progress)",
     "section": "",
-    "text": "Zeki Akyol\n\n\n\n\n\n\nNo matching items"
+    "text": "An example in R to avoid common pitfalls\n\n\n\n\nR\n\n\nMissing Values\n\n\nRegression\n\n\n\n\n\n\n\n\n\n\n\nZeki Akyol\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -47,5 +47,19 @@
     "title": "Stay tuned!",
     "section": "",
     "text": "."
+  },
+  {
+    "objectID": "posts/understanding-missing-values-in-regression/index.html",
+    "href": "posts/understanding-missing-values-in-regression/index.html",
+    "title": "Understanding Missing Values in Regression",
+    "section": "",
+    "text": "This blog post is about understanding missing value mechanism in a regression setting. After understanding this machanism, I will mention common pitfalls to aviod in data subsetting.\n[Under construction for now!]"
+  },
+  {
+    "objectID": "posts/understanding-missing-values-in-regression/index.html#appendix",
+    "href": "posts/understanding-missing-values-in-regression/index.html#appendix",
+    "title": "Understanding Missing Values in Regression",
+    "section": "5.1 Appendix",
+    "text": "5.1 Appendix\nI can fill this with regular Markdown. This is bold. This is italic.\nAlso, code chunks work.\n\nlibrary(ggplot2)\nmpg |>\n  ggplot(aes(hwy, cty)) +\n  geom_jitter()\n\n\n\n\n\n\n\n\n(Remove # and . in {.r}. It’s only here for the demo. Without it, this is a nested code block. And this does not render well.)"
   }
 ]

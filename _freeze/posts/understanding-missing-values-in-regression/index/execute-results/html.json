@@ -1,0 +1,16 @@
+{
+  "hash": "64ce32172190100ac535d4e8e56c7efc",
+  "result": {
+    "markdown": "---\ntitle: \"Understanding Missing Values in Regression\"\nsubtitle: \"An example in R to avoid common pitfalls\"\nauthor: \n  - name: \"Zeki Akyol\"\n    affiliations: \"Department of Economics, Istanbul Technical University\"\n#date: \"September, 2022\"\ncategories: [R, Missing Values, Regression]\nimage: \"thumbnail.png\"\nhighlight-style: tango\nknitr:\n  opts_chunk: \n    message: false\n    fig.align: center\n    comment: \"#>\"\nformat:\n  html: \n    fontsize: 12pt\n    toc: true\n    toccolor: blue\n    number-sections: true\n    colorlinks: true\n    urlcolor: magenta\n    citecolor: blue\n    execute:\n      echo: true\n      warning: false\n---\n\n\n\\newpage\n\nThis blog post is about understanding missing value mechanism in a regression setting. After understanding this machanism, I will mention common pitfalls to aviod in data subsetting.\n\n[Under construction for now!]",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
