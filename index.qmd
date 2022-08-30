@@ -34,7 +34,7 @@ Hi! I am a master’s student in the Department of Economics at Istanbul Technic
 ##### **Computer Skills**
 
 - **Fluent:** R & R Markdown, Stata, $\LaTeX$ & Ti*k*Z, git, Regular Expressions, Microsoft Office
-- **Familiar:** Python, Quarto, C++(for Rcpp), Bash, Adobe Products
+- **Familiar:** Python, Quarto, HTML, C++(for Rcpp), Bash, Adobe Products
 
 ##### **Contact:**
 

@@ -21,5 +21,5 @@ library(fontawesome)
 - **Data Coding Team** `r fa("calendar-days")` (02/2020 - 03/2020) <br>
   [`r fa("link")` Kayaoglu, A. (2021), A Gender-Sensitive Study on Urban Child Labor in Istanbul. London, Save the Children International.](https://resourcecentre.savethechildren.net/document/a-youth-centered-participatory-assessment-in-turkey-understanding-refugee-and-host-community-youths-perceptions-challenges-and-needs){target="_blank"}
   
-- **Field Translator (English to Turkish, Turkish to English)** `r fa("calendar-days")` (01/2020 - 02/2020) <br>
+- **Field Translator** (English to Turkish, Turkish to English) `r fa("calendar-days")` (01/2020 - 02/2020) <br>
   [`r fa("link")` Chang, C. A. (2021). The economically rich refugees: A case study of the business operations of Istanbul-based Syrian refugee businesspeople. International Migration.](https://onlinelibrary.wiley.com/doi/10.1111/imig.12886){target="_blank"}
