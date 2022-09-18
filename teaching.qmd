@@ -14,7 +14,13 @@ I am/was the solo teaching assistant for the following courses at
 
 ::: {.d-flex .justify-content-between}
 ::: {}
-- **Economics (Undergraduate)**  <br>
+- **Econometrics-I (Undergraduate)** <br>
+  R labs & Problem sessions <br>
+- **Statistical Methods in Economics (Undergraduate)** <br>
+  R labs & Problem sessions <br>
+- **Economics (Undergraduate)** <br>
+  Exam/class/proctor organization for ~2000 students <br>
+- **Economics (Undergraduate)** <br>
   Exam/class/proctor organization for ~2000 students <br>
 - **Research Methods in Economics-II (Graduate)** <br>
   R labs & Problem sessions <br>
@@ -48,6 +54,9 @@ I am/was the solo teaching assistant for the following courses at
   R labs & Problem sessions <br>
 :::
 ::: {.text-end}
+(Fall 2022) <br> <br>
+(Fall 2022) <br> <br>
+(Fall 2022) <br> <br>
 (Summer 2022) <br> <br>
 (Spring 2022) <br> <br>
 (Spring 2022) <br> <br>
