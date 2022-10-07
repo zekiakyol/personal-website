@@ -8,6 +8,18 @@ page-layout: article
 library(fontawesome)
 ```
 
+These are the logos I designed for the courses. Their code can be found at [github.com/zekiakyol/logo](https://github.com/zekiakyol/logos){target="_blank"}.
+
+::: {layout-ncol=2}
+![](logos_png/econometrics_logo.png)
+
+![](logos_png/research_methods_in_economics_logo.png)
+
+![](logos_png/statistical_methods_in_economics_logo.png)
+
+![](logos_png/mathematical_economics_logo.png)
+:::
+
 I am/was the solo teaching assistant for the following courses at
 
 ### `r fa("landmark")`  **Istanbul Technical University**
@@ -76,4 +88,4 @@ I am/was the solo teaching assistant for the following courses at
 :::
 :::
 
-Our Econometrics R labs and problem sets with [Assoc. Prof. Aysegul Kayaoglu](https://sites.google.com/view/aysegulkayaoglu){target="_blank"} will be available at [https://github.com/zekiakyol](https://github.com/zekiakyol){target="_blank"} soon!
+Our Econometrics R labs and problem sets with [Assoc. Prof. Aysegul Kayaoglu](https://sites.google.com/view/aysegulkayaoglu){target="_blank"} will be available at [github.com/zekiakyol](https://github.com/zekiakyol){target="_blank"} soon!
