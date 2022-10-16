@@ -1,1 +1,26 @@
 /* css styles */
+
+/* Remove underlines for links and remove hover colors */
+a {
+}
+
+a:link {
+  color: #0000FF;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #0000FF;
+}
+
+a:focus {
+  color: #0000FF;
+}
+
+a:hover {
+  color: #0000FF;
+}
+
+a:active {
+  color: #0000FF;
+}
