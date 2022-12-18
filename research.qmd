@@ -19,7 +19,7 @@ library(fontawesome)
   [`r fa("link")` A. Kayaoglu (2021), A Youth Centered Participatory Assessment in Turkey: Understanding Refugee and Host Community Youth's Perceptions, Challenges and Needs. *London, Save the Children International.*](https://resourcecentre.savethechildren.net/document/a-youth-centered-participatory-assessment-in-turkey-understanding-refugee-and-host-community-youths-perceptions-challenges-and-needs){target="_blank"}
 
 - **Data Coding Team** `r fa("calendar-days")` (02/2020 - 03/2020) <br>
-  [`r fa("link")` A. Kayaoglu (2021), A Gender-sensitive Study on Urban Child Labor in Istanbul. *London, Save the Children International.*](https://resourcecentre.savethechildren.net/document/a-youth-centered-participatory-assessment-in-turkey-understanding-refugee-and-host-community-youths-perceptions-challenges-and-needs){target="_blank"}
+  [`r fa("link")` A. Kayaoglu (2021), A Gender-sensitive Study on Urban Child Labor in Istanbul. *London, Save the Children International.*](https://resourcecentre.savethechildren.net/document/gender-sensitive-study-urban-child-labour-istanbul){target="_blank"}
   
 - **Field Translator** (English to Turkish, Turkish to English) `r fa("calendar-days")` (01/2020 - 02/2020) <br>
   [`r fa("link")` A. Kayaoglu, Z. S. Mencutek, C. A. Chang (2022), Challenges and Resilience Strategies of Urban Refugee Entrepreneurs. *ERF Working Paper*.](https://erf.org.eg/app/uploads/2022/11/1669471123_983_630192_1601.pdf){target="_blank"} <br>
