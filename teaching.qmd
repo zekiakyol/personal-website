@@ -20,9 +20,7 @@ These are the logos I designed for the courses. Their code can be found at [gith
 ![](logos_png/mathematical_economics_logo.png)
 :::
 
-I am/was the solo teaching assistant for the following courses at
-
-### `r fa("landmark")`  **Istanbul Technical University**
+### `r fa("landmark")`  **Istanbul Technical University, Solo Teaching Assistant**
 
 ::: {.d-flex .justify-content-between}
 ::: {}
