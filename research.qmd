@@ -15,6 +15,9 @@ library(fontawesome)
 - **Research Assistant** to Assoc. Prof. Aysegul Kayaoglu `r fa("calendar-days")` (07/2020 - Present) <br>
   Istanbul Technical University
 
+- **Researcher** to Assoc. Prof. Aysegul Kayaoglu `r fa("calendar-days")` (10/2021 - 07/2022) <br>
+  UNICEF Turkey, Consultancy on Child Labor Legislation and Policy Improvement
+  
 - **Field Research Assistant** `r fa("calendar-days")` (11/2020 - 01/2021) <br>
   [`r fa("link")` A. Kayaoglu (2021), A Youth Centered Participatory Assessment in Turkey: Understanding Refugee and Host Community Youth's Perceptions, Challenges and Needs. *London, Save the Children International.*](https://resourcecentre.savethechildren.net/document/a-youth-centered-participatory-assessment-in-turkey-understanding-refugee-and-host-community-youths-perceptions-challenges-and-needs){target="_blank"}
 
