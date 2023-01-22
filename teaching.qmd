@@ -27,21 +27,21 @@ These are the logos I designed for the courses. Their code can be found at [gith
 - **Econometrics-II (Undergraduate)** <br>
   R labs & Problem sessions <br>
 - **Economics (Undergraduate)** <br>
-  Exam/class/proctor organization for ~2000 students <br>
+  Exam organization for ~2000 students <br>
 - **Econometrics-I (Undergraduate)** <br>
   R labs & Problem sessions <br>
 - **Statistical Methods in Economics (Undergraduate)** <br>
   R labs & Problem sessions <br>
 - **Economics (Undergraduate)** <br>
-  Exam/class/proctor organization for ~2000 students <br>
+  Exam organization for ~2000 students <br>
 - **Economics (Undergraduate)** <br>
-  Exam/class/proctor organization for ~2000 students <br>
+  Exam organization for ~2000 students <br>
 - **Research Methods in Economics-II (Graduate)** <br>
   R labs & Problem sessions <br>
 - **Econometrics-II (Undergraduate)** <br>
   R labs & Problem sessions <br>
 - **Economics (Undergraduate)** <br>
-  Exam/class/proctor organization for ~2000 students <br>
+  Exam organization for ~2000 students <br>
 - **Research Methods in Economics-I (Graduate)** <br>
   R labs & Problem sessions <br>
 - **Econometrics-I (Undergraduate)** <br>
@@ -51,9 +51,9 @@ These are the logos I designed for the courses. Their code can be found at [gith
 - **Introduction to Prog. Lang. Python (Undergraduate)** <br>
   Python labs <br>
 - **Economics (Undergraduate)** <br>
-  Exam/class/proctor organization for ~2000 students <br>
+  Exam organization for ~2000 students <br>
 - **Economics (Undergraduate)** <br>
-  Exam/class/proctor organization for ~2000 students <br>
+  Exam organization for ~2000 students <br>
 - **Research Methods in Economics-II (Graduate)** <br>
   R labs & Problem sessions <br>
 - **Econometrics-II (Undergraduate)** <br>
@@ -61,7 +61,7 @@ These are the logos I designed for the courses. Their code can be found at [gith
 - **Intermediate Macroconomics (Undergraduate)** <br>
   Problem sessions <br>
 - **Economics (Undergraduate)** <br>
-  Exam/class/proctor organization for ~2000 students <br>
+  Exam organization for ~2000 students <br>
 - **Research Methods in Economics-I (Graduate)** <br>
   R labs & Problem sessions <br>
 - **Econometrics-I (Undergraduate)** <br>
