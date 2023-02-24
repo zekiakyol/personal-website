@@ -17,9 +17,9 @@ These are the logos I designed for the courses. Their code can be found at [gith
 
 ![](logos_png/statistical_methods_in_economics_logo.png)
 
-![](logos_png/mathematical_economics_logo.png)
-
 ![](logos_png/mlreadings_logo.png)
+
+![](logos_png/mathematical_economics_logo.png)
 
 ![](logos_png/advanced_econometrics_logo.png)
 :::
