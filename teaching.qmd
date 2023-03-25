@@ -28,6 +28,8 @@ These are the logos I designed for the courses. Their code can be found at [gith
 
 ::: {.d-flex .justify-content-between}
 ::: {}
+- **Advanced Econometrics (PhD)** <br>
+  <br>
 - **Econometrics-II (Undergraduate)** <br>
   R labs & Problem sessions <br>
 - **Economics (Undergraduate)** <br>
@@ -40,13 +42,13 @@ These are the logos I designed for the courses. Their code can be found at [gith
   Exam organization for ~2000 students <br>
 - **Economics (Undergraduate)** <br>
   Exam organization for ~2000 students <br>
-- **Research Methods in Economics-II (Graduate)** <br>
+- **Research Methods in Economics-II (Master's)** <br>
   R labs & Problem sessions <br>
 - **Econometrics-II (Undergraduate)** <br>
   R labs & Problem sessions <br>
 - **Economics (Undergraduate)** <br>
   Exam organization for ~2000 students <br>
-- **Research Methods in Economics-I (Graduate)** <br>
+- **Research Methods in Economics-I (Master's)** <br>
   R labs & Problem sessions <br>
 - **Econometrics-I (Undergraduate)** <br>
   R labs & Problem sessions <br>
@@ -58,7 +60,7 @@ These are the logos I designed for the courses. Their code can be found at [gith
   Exam organization for ~2000 students <br>
 - **Economics (Undergraduate)** <br>
   Exam organization for ~2000 students <br>
-- **Research Methods in Economics-II (Graduate)** <br>
+- **Research Methods in Economics-II (Master's)** <br>
   R labs & Problem sessions <br>
 - **Econometrics-II (Undergraduate)** <br>
   R labs & Problem sessions <br>
@@ -66,12 +68,13 @@ These are the logos I designed for the courses. Their code can be found at [gith
   Problem sessions <br>
 - **Economics (Undergraduate)** <br>
   Exam organization for ~2000 students <br>
-- **Research Methods in Economics-I (Graduate)** <br>
+- **Research Methods in Economics-I (Master's)** <br>
   R labs & Problem sessions <br>
 - **Econometrics-I (Undergraduate)** <br>
   R labs & Problem sessions <br>
 :::
 ::: {.text-end}
+(Spring 2023) <br> <br>
 (Spring 2023) <br> <br>
 (Spring 2023) <br> <br>
 (Fall 2022) <br> <br>
