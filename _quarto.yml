@@ -8,6 +8,7 @@ website:
   site-url: https://zekiakyol.com
   repo-url: https://github.com/zekiakyol/personal-website
   twitter-card: true
+  open-graph: true
   navbar:
     pinned: true
     background: dark
