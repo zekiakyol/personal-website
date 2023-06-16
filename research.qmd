@@ -1,7 +1,6 @@
 ---
 title: "Research Experience"
 page-layout: full
-title-block-banner: false
 ---
 
 ```{r}
