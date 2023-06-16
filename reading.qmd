@@ -1,0 +1,44 @@
+---
+title: "Reading Groups"
+page-layout: article
+---
+
+```{r}
+#| include: false
+library(fontawesome)
+```
+
+These are the logos I designed for the two reading groups that I organize.
+
+The code of the logos can be found at [github.com/zekiakyol/logos](https://github.com/zekiakyol/logos){target="_blank"}.
+
+::: {layout-ncol=2}
+![](logos_png/mlreadings_logo.png)
+
+![](logos_png/proofbasedmath_readings_logo.png)
+:::
+
+### **Machine Learning Readings**
+
+::: {.d-flex .justify-content-between}
+::: {}
+- An Introduction to Statistical Learning - Gareth James, Trevor Hastie, <br>
+  Rob Tibshirani, Jonathan Taylor (2nd Edition 2021) <br> 
+:::
+::: {.text-end}
+(Summer 2023) <br> 
+:::
+:::
+
+### **Proof-Based Math Readings**
+
+::: {.d-flex .justify-content-between}
+::: {}
+- Introduction to Real Analysis, Volume I - Jiri Lebl (5.6 Edition 2022) <br>  <br>
+- Book of Proof - Richard Hammack (3.3 Edition 2022) <br>  <br>
+:::
+::: {.text-end}
+(Fall 2023) <br> <br>
+(Summer 2023) <br> <br>
+:::
+:::

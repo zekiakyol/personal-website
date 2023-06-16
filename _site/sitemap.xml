@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://zekiakyol.com/index.html</loc>
-    <lastmod>2023-05-28T00:16:12.690Z</lastmod>
+    <lastmod>2023-06-16T11:31:56.657Z</lastmod>
   </url>
   <url>
     <loc>https://zekiakyol.com/teaching.html</loc>
-    <lastmod>2023-05-28T00:16:25.402Z</lastmod>
+    <lastmod>2023-06-16T11:30:31.540Z</lastmod>
   </url>
   <url>
     <loc>https://zekiakyol.com/blog.html</loc>
@@ -31,5 +31,9 @@
   <url>
     <loc>https://zekiakyol.com/posts/understanding-missing-values-in-regression/index.html</loc>
     <lastmod>2022-10-16T06:20:09.501Z</lastmod>
+  </url>
+  <url>
+    <loc>https://zekiakyol.com/reading.html</loc>
+    <lastmod>2023-06-16T11:32:02.689Z</lastmod>
   </url>
 </urlset>

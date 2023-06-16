@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Zeki Akyol",
     "section": "",
-    "text": "Twitter\n  \n  \n    \n     GitHub\n  \n  \n    \n     YouTube\n  \n\n  \n  \n\nAbout\nHi! I am a master’s student in the Department of Economics at Istanbul Technical University, Turkey.\n\n\nResearch Interests\n\nCausal Inference & Econometrics\nLabor Economics\nEconomics of Migration\nDevelopment Economics\n\n\n\nComputer Skills\n\nFluent: R, Stata, Quarto & R Markdown, \\(\\LaTeX\\) & TikZ, git, Regular Expressions, Microsoft Office\nFamiliar: Python, HTML, Bash, Adobe Products\n\n\n\nContact:\nakyolz19 [at] itu [dot] edu [dot] tr"
+    "text": "Twitter\n  \n  \n    \n     GitHub\n  \n  \n    \n     YouTube\n  \n\n  \n  \n\nAbout\nHi! I am a master’s student in the Department of Economics at Istanbul Technical University, Turkey.\n\n\nResearch Interests\n\nCausal Inference & Econometrics\nLabor Economics\nEconomics of Migration\nDevelopment Economics\n\n\n\nComputer Skills\n\nFluent: R, Stata, Quarto & R Markdown, \\(\\LaTeX\\) & TikZ, git, Microsoft Office\nFamiliar: Python, HTML, Bash, Adobe Products\n\n\n\nContact:\nakyolz19 [at] itu [dot] edu [dot] tr"
   },
   {
     "objectID": "blog.html",
@@ -61,5 +61,12 @@
     "title": "Understanding Missing Values in Regression",
     "section": "5.1 Appendix",
     "text": "5.1 Appendix\nI can fill this with regular Markdown. This is bold. This is italic.\nAlso, code chunks work.\n\nlibrary(ggplot2)\nmpg |>\n  ggplot(aes(hwy, cty)) +\n  geom_jitter()\n\n\n\n\n\n\n\n\n(Remove # and . in {.r}. It’s only here for the demo. Without it, this is a nested code block. And this does not render well.)"
+  },
+  {
+    "objectID": "reading.html",
+    "href": "reading.html",
+    "title": "Reading Groups",
+    "section": "",
+    "text": "These are the logos I designed for reading groups that I organize.\nThe code of the logos can be found at github.com/zekiakyol/logos.\n\n\n\n\n\n\n\n\n\n\n\nMachine Learning Readings\n\n\n\nAn Introduction to Statistical Learning - Gareth James, Trevor Hastie,  Rob Tibshirani, Jonathan Taylor (2nd Edition 2021) \n\n\n\n(Summer 2023) \n\n\n\n\nProof-Based Math Readings\n\n\n\nIntroduction to Real Analysis, Volume I - Jiri Lebl (5.6 Edition 2022)  \nBook of Proof - Richard Hammack (3.3 Edition 2022)  \n\n\n\n(Fall 2023)   (Summer 2023)"
   }
 ]

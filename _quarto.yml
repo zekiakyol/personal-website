@@ -20,6 +20,8 @@ website:
         file: research.qmd
       - text: "Teaching"
         file: teaching.qmd
+      - text: "Reading"
+        file: reading.qmd
       - text: "Blog"
         file: blog.qmd
     right:
