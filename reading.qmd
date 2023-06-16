@@ -22,8 +22,8 @@ The code of the logos can be found at [github.com/zekiakyol/logos](https://githu
 
 ::: {.d-flex .justify-content-between}
 ::: {}
-`r fa("book")` An Introduction to Statistical Learning - Gareth James, Trevor Hastie, <br>
-  Rob Tibshirani, Jonathan Taylor (2nd Edition 2021) <br> 
+`r fa("book")` An Introduction to Statistical Learning - Gareth James, Trevor Hastie, Daniela <br>
+  Witten, Rob Tibshirani, Jonathan Taylor (2nd Edition 2021) <br> 
   10 members.
 :::
 ::: {.text-end}
