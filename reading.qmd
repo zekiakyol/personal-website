@@ -22,8 +22,9 @@ The code of the logos can be found at [github.com/zekiakyol/logos](https://githu
 
 ::: {.d-flex .justify-content-between}
 ::: {}
-- An Introduction to Statistical Learning - Gareth James, Trevor Hastie, <br>
+`r fa("book")` An Introduction to Statistical Learning - Gareth James, Trevor Hastie, <br>
   Rob Tibshirani, Jonathan Taylor (2nd Edition 2021) <br> 
+  10 members.
 :::
 ::: {.text-end}
 (Summer 2023) <br> 
@@ -34,8 +35,9 @@ The code of the logos can be found at [github.com/zekiakyol/logos](https://githu
 
 ::: {.d-flex .justify-content-between}
 ::: {}
-- Introduction to Real Analysis, Volume I - Jiri Lebl (5.6 Edition 2022) <br>  <br>
-- Book of Proof - Richard Hammack (3.3 Edition 2022) <br>  <br>
+`r fa("book")` Introduction to Real Analysis, Volume I - Jiri Lebl (5.6 Edition 2022) <br> <br>
+`r fa("book")` Book of Proof - Richard Hammack (3.3 Edition 2022) <br> 
+  16 members. <br>
 :::
 ::: {.text-end}
 (Fall 2023) <br> <br>
