@@ -26,77 +26,49 @@ These are the logos I designed for the courses. Their code can be found at [gith
 
 ### `r fa("landmark")`  **Istanbul Technical University, Solo Teaching Assistant**
 
-::: {.d-flex .justify-content-between}
-::: {}
-- **Advanced Econometrics (PhD)** <br>
-  <br>
-- **Econometrics-II (Undergraduate)** <br>
+- **Advanced Econometrics (PhD)** `r fa("calendar-days")` Spring 2023 <br>
+  Problem sets <br>
+- **Econometrics-II (Undergraduate)** `r fa("calendar-days")` Spring 2023 <br>
   R labs & Problem sessions <br>
-- **Economics (Undergraduate)** <br>
+- **Economics (Undergraduate)** `r fa("calendar-days")` Spring 2023 <br>
   Exam organization for ~2000 students <br>
-- **Econometrics-I (Undergraduate)** <br>
+- **Econometrics-I (Undergraduate)** `r fa("calendar-days")` Fall 2022 <br>
   R labs & Problem sessions <br>
-- **Statistical Methods in Economics (Undergraduate)** <br>
+- **Statistical Methods in Economics (Undergraduate)** `r fa("calendar-days")` Fall 2022 <br>
   R labs & Problem sessions <br>
-- **Economics (Undergraduate)** <br>
+- **Economics (Undergraduate)** `r fa("calendar-days")` Fall 2022 <br>
   Exam organization for ~2000 students <br>
-- **Economics (Undergraduate)** <br>
+- **Economics (Undergraduate)** `r fa("calendar-days")` Summer 2022 <br>
   Exam organization for ~2000 students <br>
-- **Research Methods in Economics-II (Master's)** <br>
+- **Research Methods in Economics-II (Master's)** `r fa("calendar-days")` Spring 2022 <br>
   R labs & Problem sessions <br>
-- **Econometrics-II (Undergraduate)** <br>
+- **Econometrics-II (Undergraduate)** `r fa("calendar-days")` Spring 2022 <br>
   R labs & Problem sessions <br>
-- **Economics (Undergraduate)** <br>
+- **Economics (Undergraduate)** `r fa("calendar-days")` Spring 2022 <br>
   Exam organization for ~2000 students <br>
-- **Research Methods in Economics-I (Master's)** <br>
+- **Research Methods in Economics-I (Master's)** `r fa("calendar-days")` Fall 2021 <br>
   R labs & Problem sessions <br>
-- **Econometrics-I (Undergraduate)** <br>
+- **Econometrics-I (Undergraduate)** `r fa("calendar-days")` Fall 2021 <br>
   R labs & Problem sessions <br>
-- **Mathematical Economics (Undergraduate)** <br>
+- **Mathematical Economics (Undergraduate)** `r fa("calendar-days")` Fall 2021 <br>
   Problem sessions <br>
-- **Introduction to Prog. Lang. Python (Undergraduate)** <br>
+- **Introduction to Prog. Lang. Python (Undergraduate)** `r fa("calendar-days")` Fall 2021 <br>
   Python labs <br>
-- **Economics (Undergraduate)** <br>
+- **Economics (Undergraduate)** `r fa("calendar-days")` Fall 2021 <br>
   Exam organization for ~2000 students <br>
-- **Economics (Undergraduate)** <br>
+- **Economics (Undergraduate)** `r fa("calendar-days")` Summer 2021 <br>
   Exam organization for ~2000 students <br>
-- **Research Methods in Economics-II (Master's)** <br>
+- **Research Methods in Economics-II (Master's)** `r fa("calendar-days")` Spring 2021 <br>
   R labs & Problem sessions <br>
-- **Econometrics-II (Undergraduate)** <br>
+- **Econometrics-II (Undergraduate)** `r fa("calendar-days")` Spring 2021 <br>
   R labs & Problem sessions <br>
-- **Intermediate Macroconomics (Undergraduate)** <br>
+- **Intermediate Macroconomics (Undergraduate)** `r fa("calendar-days")` Spring 2021 <br>
   Problem sessions <br>
-- **Economics (Undergraduate)** <br>
+- **Economics (Undergraduate)** `r fa("calendar-days")` Spring 2021 <br>
   Exam organization for ~2000 students <br>
-- **Research Methods in Economics-I (Master's)** <br>
+- **Research Methods in Economics-I (Master's)** `r fa("calendar-days")` Fall 2020 <br>
   R labs & Problem sessions <br>
-- **Econometrics-I (Undergraduate)** <br>
+- **Econometrics-I (Undergraduate)** `r fa("calendar-days")` Fall 2020 <br>
   R labs & Problem sessions <br>
-:::
-::: {.text-end}
-(Spring 2023) <br> <br>
-(Spring 2023) <br> <br>
-(Spring 2023) <br> <br>
-(Fall 2022) <br> <br>
-(Fall 2022) <br> <br>
-(Fall 2022) <br> <br>
-(Summer 2022) <br> <br>
-(Spring 2022) <br> <br>
-(Spring 2022) <br> <br>
-(Spring 2022) <br> <br>
-(Fall 2021) <br> <br>
-(Fall 2021) <br> <br>
-(Fall 2021) <br> <br>
-(Fall 2021) <br> <br>
-(Fall 2021) <br> <br>
-(Summer 2021) <br> <br>
-(Spring 2021) <br> <br>
-(Spring 2021) <br> <br>
-(Spring 2021) <br> <br>
-(Spring 2021) <br> <br>
-(Fall 2020) <br> <br>
-(Fall 2020) <br> <br>
-:::
-:::
 
 Our Econometrics R labs and problem sets with [Assoc. Prof. Aysegul Kayaoglu](https://sites.google.com/view/aysegulkayaoglu){target="_blank"} will be available at [github.com/zekiakyol](https://github.com/zekiakyol){target="_blank"} soon!
