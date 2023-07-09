@@ -35,12 +35,15 @@ Rob Tibshirani, Jonathan Taylor (2nd Edition 2021) <br>
 
 ::: {.d-flex .justify-content-between}
 ::: {}
+`r fa("book")` Measure, Integration & Real Analysis - Sheldon Axler (2023) <br> <br>
 `r fa("book")` Linear Algebra Done Right - Sheldon Axler (4th Edition 2023) <br> <br>
-`r fa("book")` Introduction to Real Analysis, Volume I - Jiri Lebl (5.6 Edition 2022) <br> <br>
+`r fa("book")` Introduction to Real Analysis, Volume I - Jiri Lebl (5.6 Edition 2022) <br> 
+18 Members. <br>
 `r fa("book")` Book of Proof - Richard Hammack (3.3 Edition 2022) <br> 
-  16 members. <br>
+16 members. <br>
 :::
 ::: {.text-end}
+(Summer 2024) <br> <br>
 (Winter 2023) <br> <br>
 (Fall 2023) <br> <br>
 (Summer 2023) <br> <br>
