@@ -39,13 +39,15 @@ The syllabuses of  this reading group can be found at [github.com/zekiakyol/proo
 ::: {}
 `r fa("book")` Measure, Integration & Real Analysis - Sheldon Axler (2023) <br> <br>
 `r fa("book")` Linear Algebra Done Right - Sheldon Axler (4th Edition 2023) <br> <br>
+`r fa("book")` General Topology - Seymour Lipschutz (2011) <br> <br>
 `r fa("book")` Introduction to Real Analysis, Volume I - Jiri Lebl (6.0 Edition 2023) <br> 
-18 Members. <br>
+20 Members. <br>
 `r fa("book")` Book of Proof - Richard Hammack (3.3 Edition 2022) <br> 
 14 members. <br>
 :::
 ::: {.text-end}
 (Summer 2024) <br> <br>
+(Spring 2024) <br> <br>
 (Winter 2023) <br> <br>
 (Fall 2023) <br> <br>
 (Summer 2023) <br> <br>
