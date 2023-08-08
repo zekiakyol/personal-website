@@ -33,7 +33,9 @@ Rob Tibshirani, Jonathan Taylor (2nd Edition 2021) <br>
 
 ### **Proof-Based Math Readings**
 
-The syllabuses of  this reading group can be found at [github.com/zekiakyol/proof-based-math-readings](https://github.com/zekiakyol/proof-based-math-readings)
+Proof-Based Math Readings is an independent online reading group where we study mathematics required in economics master's/PhD programs using an intuitive approach.
+
+The syllabuses of  our reading group can be found at [github.com/zekiakyol/proof-based-math-readings](https://github.com/zekiakyol/proof-based-math-readings)
 
 ::: {.d-flex .justify-content-between}
 ::: {}
