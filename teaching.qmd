@@ -8,7 +8,9 @@ page-layout: article
 library(fontawesome)
 ```
 
-These are the logos I designed for the courses. Their code can be found at [github.com/zekiakyol/logos](https://github.com/zekiakyol/logos){target="_blank"}.
+These are the logos I designed for the courses.
+
+The code of the logos are available at [github.com/zekiakyol/logos](https://github.com/zekiakyol/logos){target="_blank"}.
 
 ::: {layout-ncol=3}
 ![](logos_png/econometrics_logo.png)
@@ -75,7 +77,7 @@ These are the logos I designed for the courses. Their code can be found at [gith
   
 ### `r fa("landmark")`  **Istanbul Technical University, Solo Instructor**
 
-- **Summer 2023** `r fa("calendar-days")` **Math Camp (Incoming PhD and Master's)** <br>
+- **Summer 2023** `r fa("calendar-days")` **Math Camp (Incoming PhD and Master's students)** <br>
   Proof techniques, real analysis, and linear algebra <br>
 
 Our Econometrics R labs and problem sets with [Assoc. Prof. Aysegul Kayaoglu](https://sites.google.com/view/aysegulkayaoglu){target="_blank"} will be available at [github.com/zekiakyol](https://github.com/zekiakyol){target="_blank"} soon!
