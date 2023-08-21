@@ -24,3 +24,8 @@ a:hover {
 a:active {
   color: #0000FF;
 }
+
+/* Round corners of images */
+img {
+  border-radius: 5%;
+}

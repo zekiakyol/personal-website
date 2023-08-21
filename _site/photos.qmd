@@ -1,0 +1,29 @@
+---
+title: "Photos"
+format: html
+filters:
+   - lightbox
+lightbox: auto
+---
+
+::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));grid-gap: 1em;"}
+
+![](https://source.unsplash.com/jlzxJuSINsw){group="my-gallery"}
+
+![](https://source.unsplash.com/a-brown-dog-laying-on-top-of-a-white-bed-90ub4oBH1WU){group="my-gallery"}
+
+![](https://source.unsplash.com/ZJVXcRmaSJM){group="my-gallery"}
+
+![](https://source.unsplash.com/cVpfbLcm0Bo){group="my-gallery"}
+
+![](https://source.unsplash.com/a-white-cat-laying-on-top-of-a-white-curtain-fIkdTouhWMg){group="my-gallery"}
+
+![](https://source.unsplash.com/78YxP3PP05A){group="my-gallery"}
+
+![](https://source.unsplash.com/PU1Yqe9kNpg){group="my-gallery"}
+
+![](https://source.unsplash.com/uutHQEjfx3g){group="my-gallery"}
+
+![](https://source.unsplash.com/JcIFJnZDUHQ){group="my-gallery"}
+
+:::

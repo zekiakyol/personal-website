@@ -1,0 +1,41 @@
+---
+title: "Photos"
+format: html
+filters:
+   - lightbox
+lightbox: auto
+---
+
+::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));grid-gap: 1em;"}
+
+![](photos/photo01.jpg){group="my-gallery"}
+
+![](photos/photo02.jpg){group="my-gallery"}
+
+![](photos/photo03.jpg){group="my-gallery"}
+
+![](photos/photo04.jpg){group="my-gallery"}
+
+![](photos/photo05.jpg){group="my-gallery"}
+
+![](photos/photo06.jpg){group="my-gallery"}
+
+![](photos/photo07.jpg){group="my-gallery"}
+
+![](photos/photo08.jpg){group="my-gallery"}
+
+![](photos/photo09.jpg){group="my-gallery"}
+
+![](photos/photo10.jpg){group="my-gallery"}
+
+![](photos/photo11.jpg){group="my-gallery"}
+
+![](photos/photo12.jpg){group="my-gallery"}
+
+![](photos/photo13.jpg){group="my-gallery"}
+
+![](photos/photo14.jpg){group="my-gallery"}
+
+![](photos/photo15.jpg){group="my-gallery"}
+
+:::

@@ -22,6 +22,8 @@ website:
         file: teaching.qmd
       - text: "Reading"
         file: reading.qmd
+      - text: "Photos"
+        file: photos.qmd
       - text: "Blog"
         file: blog.qmd
     right:
