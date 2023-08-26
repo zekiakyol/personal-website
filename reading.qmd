@@ -8,9 +8,9 @@ page-layout: article
 library(fontawesome)
 ```
 
-These are the logos I designed for the reading groups that I organize.
+I organize two long-term online reading groups.
 
-The code of the logos are available at [github.com/zekiakyol/logos](https://github.com/zekiakyol/logos){target="_blank"}.
+The code of our logos are available at [github.com/zekiakyol/logos](https://github.com/zekiakyol/logos){target="_blank"}.
 
 ::: {layout-ncol=2}
 ![](logos_png/mlreadings_logo.png)
@@ -33,15 +33,16 @@ Rob Tibshirani, Jonathan Taylor (2nd Edition 2021) <br>
 
 ### **Proof-Based Math Readings**
 
-Proof-Based Math Readings is an independent online reading group where we study mathematics required in economics master's/PhD programs using an intuitive approach.
+Proof-Based Math Readings is a free and independent online reading group where we study mathematics required in economics master's/PhD programs using an intuitive approach.
 
-The syllabuses and other details of our reading group are at [github.com/zekiakyol/proof-based-math-readings](https://github.com/zekiakyol/proof-based-math-readings)
+Our syllabuses and application form are available at [github.com/zekiakyol/proof-based-math-readings](https://github.com/zekiakyol/proof-based-math-readings)
 
 ::: {.d-flex .justify-content-between}
 ::: {}
 `r fa("book")` Measure, Integration & Real Analysis - Sheldon Axler (1st Edition 2020) <br> <br>
 `r fa("book")` Linear Algebra Done Right - Sheldon Axler (4th Edition 2023) <br> <br>
 `r fa("book")` General Topology - Seymour Lipschutz (2011) <br> <br>
+`r fa("book")` Matrix Algebra - Karim M. Abadir, Jan R. Magnus (2005) <br> <br>
 `r fa("book")` Introduction to Real Analysis, Volume I - Jiri Lebl (6.0 Edition 2023) <br> 
 22 Members. <br>
 `r fa("book")` Book of Proof - Richard Hammack (3.3 Edition 2022) <br> 
@@ -51,6 +52,7 @@ The syllabuses and other details of our reading group are at [github.com/zekiaky
 (Summer 2024) <br> <br>
 (Spring 2024) <br> <br>
 (Winter 2023) <br> <br>
+(Fall 2023) <br> <br>
 (Fall 2023) <br> <br>
 (Summer 2023) <br> <br>
 :::
