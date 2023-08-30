@@ -13,9 +13,9 @@ I organize two long-term online reading groups.
 The code of our logos are available at [github.com/zekiakyol/logos](https://github.com/zekiakyol/logos){target="_blank"}.
 
 ::: {layout-ncol=2}
-![](logos_png/mlreadings_logo.png)
-
 ![](logos_png/proofbasedmath_readings_logo.png)
+
+![](logos_png/mlreadings_logo.png)
 :::
 
 ### **Proof-Based Math Readings**
@@ -26,7 +26,7 @@ Our syllabuses and application form are available at [github.com/zekiakyol/proof
 
 ::: {.d-flex .justify-content-between}
 ::: {}
-`r fa("book")` Measure, Integration & Real Analysis - Sheldon Axler (1st Edition 2020) <br> <br>
+`r fa("book")` Measure, Integration & Real Analysis - Sheldon Axler (2023) <br> <br>
 `r fa("book")` Linear Algebra Done Right - Sheldon Axler (4th Edition 2023) <br> <br>
 `r fa("book")` General Topology - Seymour Lipschutz (2011) <br> <br>
 `r fa("book")` Matrix Algebra - Karim M. Abadir, Jan R. Magnus (2005) <br> <br>
