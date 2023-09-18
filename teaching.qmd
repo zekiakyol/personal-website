@@ -27,29 +27,34 @@ The code of the logos are available at [github.com/zekiakyol/logos](https://gith
 :::
 
 ### `r fa("landmark")`  **Istanbul Technical University, Solo Teaching Assistant**
-
+- **Fall 2023** `r fa("calendar-days")` **Econometrics-I (Undergraduate)** <br>
+  R labs & Problem sessions <br>
+- **Fall 2023** `r fa("calendar-days")` **Economics (Undergraduate)** <br>
+  Exams for ~1500 students <br>
+- **Fall 2023** `r fa("calendar-days")` **Introduction to Prog. Lang. Python (Undergraduate)** <br>
+  Python labs <br>
 - **Summer 2023** `r fa("calendar-days")` **Economics (Undergraduate)** <br>
-  Exam organization for ~300 students <br>
+  Exams for ~300 students <br>
 - **Spring 2023** `r fa("calendar-days")` **Advanced Econometrics (PhD)** <br>
   Problem sets <br>
 - **Spring 2023** `r fa("calendar-days")` **Econometrics-II (Undergraduate)** <br>
   R labs & Problem sessions <br>
 - **Spring 2023** `r fa("calendar-days")` **Economics (Undergraduate)** <br>
-  Exam organization for ~2000 students <br>
+  Exams for ~1500 students <br>
 - **Fall 2022** `r fa("calendar-days")` **Econometrics-I (Undergraduate)** <br>
   R labs & Problem sessions <br>
 - **Fall 2022** `r fa("calendar-days")` **Statistical Methods in Economics (Undergraduate)** <br>
   R labs & Problem sessions <br>
 - **Fall 2022** `r fa("calendar-days")` **Economics (Undergraduate)** <br>
-  Exam organization for ~2000 students <br>
+  Exams for ~1500 students <br>
 - **Summer 2022** `r fa("calendar-days")` **Economics (Undergraduate)** <br>
-  Exam organization for ~300 students <br>
+  Exams for ~300 students <br>
 - **Spring 2022** `r fa("calendar-days")` **Research Methods in Economics-II (Master's)** <br>
   R labs & Problem sessions <br>
 - **Spring 2022** `r fa("calendar-days")` **Econometrics-II (Undergraduate)** <br>
   R labs & Problem sessions <br>
 - **Spring 2022** `r fa("calendar-days")` **Economics (Undergraduate)** <br>
-  Exam organization for ~2000 students <br>
+  Exams for ~1500 students <br>
 - **Fall 2021** `r fa("calendar-days")` **Research Methods in Economics-I (Master's)** <br>
   R labs & Problem sessions <br>
 - **Fall 2021** `r fa("calendar-days")` **Econometrics-I (Undergraduate)** <br>
@@ -59,9 +64,9 @@ The code of the logos are available at [github.com/zekiakyol/logos](https://gith
 - **Fall 2021** `r fa("calendar-days")` **Introduction to Prog. Lang. Python (Undergraduate)** <br>
   Python labs <br>
 - **Fall 2021** `r fa("calendar-days")` **Economics (Undergraduate)** <br>
-  Exam organization for ~2000 students <br>
+  Exams for ~1500 students <br>
 - **Summer 2021** `r fa("calendar-days")` **Economics (Undergraduate)** <br>
-  Exam organization for ~300 students <br>
+  Exams for ~300 students <br>
 - **Spring 2021** `r fa("calendar-days")` **Research Methods in Economics-II (Master's)** <br>
   R labs & Problem sessions <br>
 - **Spring 2021** `r fa("calendar-days")` **Econometrics-II (Undergraduate)** <br>
@@ -69,7 +74,7 @@ The code of the logos are available at [github.com/zekiakyol/logos](https://gith
 - **Spring 2021** `r fa("calendar-days")` **Intermediate Macroconomics (Undergraduate)** <br>
   Problem sessions <br>
 - **Spring 2021** `r fa("calendar-days")` **Economics (Undergraduate)** <br>
-  Exam organization for ~2000 students <br>
+  Exams for ~1500 students <br>
 - **Fall 2020** `r fa("calendar-days")` **Research Methods in Economics-I (Master's)** <br>
   R labs & Problem sessions <br>
 - **Fall 2020** `r fa("calendar-days")` **Econometrics-I (Undergraduate)** <br>
