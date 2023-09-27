@@ -33,8 +33,8 @@ Hi! I am a master’s student in the Department of Economics at Istanbul Technic
 
 ##### **Computer Skills**
 
-- **Fluent:** R, Stata, Quarto & R Markdown, $\LaTeX$ & Ti*k*Z, git, Microsoft Office
-- **Familiar:** Python, HTML, Bash, Adobe Products
+- **Fluent:** R, Stata, Quarto & R Markdown, $\LaTeX$, git, Microsoft Office
+- **Familiar:** Python, HTML, Bash
 
 ##### **Contact:**
 
