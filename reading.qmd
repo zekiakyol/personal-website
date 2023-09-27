@@ -29,7 +29,6 @@ Our syllabuses and application form are available at [github.com/zekiakyol/proof
 ::: {.d-flex .justify-content-between}
 ::: {}
 `r fa("book")` Measure, Integration & Real Analysis - Sheldon Axler (2023) <br> <br>
-`r fa("book")` Elements of Large-Sample Theory - Erich Leo Lehmann (1999) <br> <br>
 `r fa("book")` Linear Algebra Done Right - Sheldon Axler (4th Edition 2023) <br> <br>
 `r fa("book")` Topology - James Munkres (2nd Edition, 2014) <br> <br>
 `r fa("book")` Matrix Algebra - Karim M. Abadir, Jan R. Magnus (2005) <br> <br>
@@ -37,7 +36,6 @@ Our syllabuses and application form are available at [github.com/zekiakyol/proof
 `r fa("book")` Book of Proof - Richard Hammack (3.3 Edition 2022) <br> <br>
 :::
 ::: {.text-end}
-(Summer 2024) <br> <br>
 (Summer 2024) <br> <br>
 (Spring 2024) <br> <br>
 (Winter 2023) <br> <br>
