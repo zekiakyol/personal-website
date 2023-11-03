@@ -38,4 +38,6 @@ lightbox: auto
 
 ![](photos/photo15.jpg){group="my-gallery"}
 
+![](photos/photo16.jpg){group="my-gallery"}
+
 :::
