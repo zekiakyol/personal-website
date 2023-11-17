@@ -1,5 +1,5 @@
 ---
-title: "Research Experience"
+title: "Research"
 page-layout: full
 ---
 
@@ -14,9 +14,13 @@ library(fontawesome)
 - **Research Assistant** to Assoc. Prof. Aysegul Kayaoglu `r fa("calendar-days")` (07/2020 - Present) <br>
   Istanbul Technical University
 
+- **Research Assistant** to Asst. Prof. Aysun Hiziroglu Aygun `r fa("calendar-days")` (11/2022 - Present)<br>
+  Funded by Scientific and Technological Research Council of Turkey / TÜBİTAK-221S893 <br>
+  Modeling and Simulation of Infectious Diseases from Epidemiological and Economic Perspectives Using Mathematical and Agent-Based Methods, Prof. Hasan Güçlü
+
 - **Researcher** to Assoc. Prof. Aysegul Kayaoglu `r fa("calendar-days")` (10/2021 - 07/2022) <br>
   UNICEF Turkey, Consultancy on Child Labor Legislation and Policy Improvement
-  
+
 - **Field Research Assistant** `r fa("calendar-days")` (11/2020 - 01/2021) <br>
   [`r fa("link")` A. Kayaoglu (2021), A Youth Centered Participatory Assessment in Turkey: Understanding Refugee and Host Community Youth's Perceptions, Challenges and Needs. *London, Save the Children International.*](https://resourcecentre.savethechildren.net/document/a-youth-centered-participatory-assessment-in-turkey-understanding-refugee-and-host-community-youths-perceptions-challenges-and-needs){target="_blank"}
 
@@ -24,5 +28,14 @@ library(fontawesome)
   [`r fa("link")` A. Kayaoglu (2021), A Gender-sensitive Study on Urban Child Labor in Istanbul. *London, Save the Children International.*](https://resourcecentre.savethechildren.net/document/gender-sensitive-study-urban-child-labour-istanbul){target="_blank"}
   
 - **Field Translator** (English to Turkish, Turkish to English) `r fa("calendar-days")` (01/2020 - 02/2020) <br>
+  Funded by Ministry of Science and Technology of Taiwan; MOST Young Scholar Fellowship / MOST 108-2636-H <br>
   [`r fa("link")` A. Kayaoglu, Z. S. Mencutek, C. A. Chang (2022), Challenges and Resilience Strategies of Urban Refugee Entrepreneurs. *ERF Working Paper*.](https://erf.org.eg/app/uploads/2022/11/1669471123_983_630192_1601.pdf){target="_blank"} <br>
   [`r fa("link")` C. A. Chang (2021), The Economically Rich Refugees: A Case Study of the Business Operations of Istanbul-based Syrian Refugee Businesspeople. *International Migration.*](https://onlinelibrary.wiley.com/doi/10.1111/imig.12886){target="_blank"}
+  
+# Books
+
+`r fa("book")` R Companion: Introduction to Econometrics (Stock and Watson, 4th Edition 2019) `r fa("calendar-days")` (Expected 24) <br>
+  with Asst. Prof. Osman Dogan and Assoc. Prof. Suleyman Taspinar
+
+`r fa("book")` Solution Manual: Book of Proof - Richard Hammack (3.3 Edition, 2022) `r fa("calendar-days")` (Expected 2024) <br>
+  Progress: 95%

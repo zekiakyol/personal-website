@@ -22,7 +22,7 @@ The code of our logos are available at [github.com/zekiakyol/logos](https://gith
 
 Proof-Based Math Readings is a free and independent online reading group where we study mathematics required in economics master's/PhD programs using an intuitive approach.
 
-This reading group has **23 members** for now and accepts new members.
+This reading group has **24 members** for now and accepts new members.
 
 Our syllabuses and application form are available at [github.com/zekiakyol/proof-based-math-readings](https://github.com/zekiakyol/proof-based-math-readings)
 
@@ -50,8 +50,10 @@ Our syllabuses and application form are available at [github.com/zekiakyol/proof
 ::: {.d-flex .justify-content-between}
 ::: {}
 `r fa("book")` An Introduction to Statistical Learning - Gareth James, Trevor Hastie, Daniela Witten, <br>
-Rob Tibshirani, Jonathan Taylor (2nd Edition 2021) <br> 
+Rob Tibshirani, Jonathan Taylor (2nd Edition 2021)
+
 This reading group has **10 members**.
+
 :::
 ::: {.text-end}
 (Summer 2023) <br> 
