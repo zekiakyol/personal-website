@@ -14,7 +14,7 @@ library(fontawesome)
 - **Research Assistant** to Assoc. Prof. Aysegul Kayaoglu `r fa("calendar-days")` (07/2020 - Present) <br>
   Istanbul Technical University
 
-- **Research Assistant** to Asst. Prof. Aysun Hiziroglu Aygun `r fa("calendar-days")` (11/2022 - Present)<br>
+- **Research Assistant** to Asst. Prof. Aysun Hiziroglu Aygun `r fa("calendar-days")` (11/2022 - 11/2023)<br>
   Funded by Scientific and Technological Research Council of Turkey / TÜBİTAK-221S893 <br>
   Modeling and Simulation of Infectious Diseases from Epidemiological and Economic Perspectives Using Mathematical and Agent-Based Methods, Prof. Hasan Güçlü
 
