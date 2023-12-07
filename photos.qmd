@@ -24,8 +24,6 @@ lightbox: auto
 
 ![](photos/photo08.jpg){group="my-gallery"}
 
-![](photos/photo09.jpg){group="my-gallery"}
-
 ![](photos/photo10.jpg){group="my-gallery"}
 
 ![](photos/photo11.jpg){group="my-gallery"}
