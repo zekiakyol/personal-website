@@ -22,7 +22,7 @@ about:
 :::{#hero-heading}
 ##### **About**
 
-I am a master’s student in the Department of Economics at Istanbul Technical University, Turkey.
+I am a Research Assistant in the Department of Economics at Istanbul Technical University, Turkey.
 
 ##### **Research Interests**
 

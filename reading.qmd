@@ -22,12 +22,13 @@ The code of our logos are available at [github.com/zekiakyol/logos](https://gith
 
 Proof-Based Math Readings is a free and independent online reading group where we study mathematics required in economics master's/PhD programs using an intuitive approach.
 
-This reading group has **24 members** for now and accepts new members.
+This reading group has **25 members** for now and accepts new members.
 
 Our syllabuses and application form are available at [github.com/zekiakyol/proof-based-math-readings](https://github.com/zekiakyol/proof-based-math-readings)
 
 ::: {.d-flex .justify-content-between}
 ::: {}
+`r fa("book")` A First Course in Optimization Theory - Rangarajan K. Sundaram (1996) <br> <br>
 `r fa("book")` Measure, Integration & Real Analysis - Sheldon Axler (2023) <br> <br>
 `r fa("book")` Linear Algebra Done Right - Sheldon Axler (4th Edition 2024) <br> <br>
 `r fa("book")` Topology - James Munkres (2nd Edition 2014) <br> <br>
@@ -36,6 +37,7 @@ Our syllabuses and application form are available at [github.com/zekiakyol/proof
 `r fa("book")` Book of Proof - Richard Hammack (3.3 Edition 2022) <br> <br>
 :::
 ::: {.text-end}
+(Fall 2024) <br> <br>
 (Summer 2024) <br> <br>
 (Spring 2024) <br> <br>
 (Winter 2023) <br> <br>
