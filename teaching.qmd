@@ -35,8 +35,10 @@ The code of the logos are available at [github.com/zekiakyol/logos](https://gith
   R labs & Problem sessions <br>
 - **Spring 20, 21, 22** `r fa("calendar-days")` **Research Methods in Economics-II (Master's)** <br>
   R labs & Problem sessions <br>
-- **Spring 23** `r fa("calendar-days")` **Advanced Econometrics (PhD)** <br>
+- **Spring 22** `r fa("calendar-days")` **Advanced Econometrics (PhD)** <br>
   Proofreading R labs <br>
+- **Spring 23** `r fa("calendar-days")` **Introduction to Scientific and Engineering Computing (Undergraduate)** <br>
+  Python labs <br>
 - **Fall 21, 23** `r fa("calendar-days")` **Introduction to Prog. Lang. Python (Undergraduate)** <br>
   Python labs <br>
 - **Fall 22** `r fa("calendar-days")` **Statistical Methods in Economics (Undergraduate)** <br>
