@@ -31,8 +31,7 @@ I am a Research Assistant in the Department of Economics at Istanbul Technical U
 
 ##### **Computer Skills**
 
-- **Fluent:** R, Stata, Quarto & R Markdown, $\LaTeX$, git, Microsoft Office
-- **Familiar:** Python, HTML, Bash
+- R, Stata, Python, Quarto & R Markdown, $\LaTeX$, Bash, git, Microsoft Office
 
 ##### **Contact:**
 
