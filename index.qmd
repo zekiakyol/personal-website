@@ -33,7 +33,7 @@ I am a Research Assistant in the Department of Economics at Istanbul Technical U
 
 - R, Stata, Python, Quarto & R Markdown, $\LaTeX$, Bash, git, Microsoft Office
 
-##### **Contact:**
+##### **Contact**
 
 **akyolz19** [at] **itu** [dot] **edu** [dot] **tr**
 :::
