@@ -10,8 +10,6 @@ library(fontawesome)
 
 These are the logos I designed for the courses.
 
-The code of the logos are available at [github.com/zekiakyol/logos](https://github.com/zekiakyol/logos){target="_blank"}.
-
 ::: {layout-ncol=3}
 ![](logos_png/econometrics_logo.png)
 

@@ -8,10 +8,10 @@ page-layout: full
 library(fontawesome)
 ```
 
-`r fa("book")` R Companion for Introduction to Econometrics (Stock and Watson, 4th Edition 2019) `r fa("calendar-days")` (Expected 2024) <br>
+`r fa("book")` R Companion for Introduction to Econometrics (Stock and Watson, 4th Edition 2019) `r fa("calendar-days")` (Expected 2025) <br>
   with Asst. Prof. Osman Dogan and Assoc. Prof. Suleyman Taspinar
 
-`r fa("book")` Solution Manual for Book of Proof - Richard Hammack (3.3 Edition, 2022) `r fa("calendar-days")` (Expected 2024) <br>
+`r fa("book")` Solution Manual for Book of Proof - Richard Hammack (3.3 Edition, 2022) `r fa("calendar-days")` (Expected 2025) <br>
   Progress: 95%
   
 # Research Experience
