@@ -10,7 +10,7 @@ about:
   links:
     - icon: twitter
       text: Twitter
-      href: https://twitter.com/zekiakyol0
+      href: https://x.com/zekiakyol0
     - icon: github
       text: GitHub
       href: https://github.com/zekiakyol
