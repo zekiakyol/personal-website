@@ -25,6 +25,8 @@ These are the logos I designed for the courses.
 :::
 
 ### `r fa("landmark")` **Istanbul Technical University, Teaching Assistant**
+- **Fall 24** `r fa("calendar-days")` **Principles to Microeconomics (Undergraduate)** <br>
+  Problem sessions <br>
 - **Fall 20, 21, 22, 23** `r fa("calendar-days")` **Econometrics-I (Undergraduate)** <br>
   R labs & Problem sessions <br>
 - **Spring 20, 21, 22, 23** `r fa("calendar-days")` **Econometrics-II (Undergraduate)** <br>
@@ -37,7 +39,7 @@ These are the logos I designed for the courses.
   Proofreading R labs <br>
 - **Spring 23** `r fa("calendar-days")` **Introduction to Scientific and Engineering Computing (Undergraduate)** <br>
   Python labs <br>
-- **Fall 21, 23** `r fa("calendar-days")` **Introduction to Prog. Lang. Python (Undergraduate)** <br>
+- **Fall 21, 23, 24** `r fa("calendar-days")` **Introduction to Prog. Lang. Python (Undergraduate)** <br>
   Python labs <br>
 - **Fall 22** `r fa("calendar-days")` **Statistical Methods in Economics (Undergraduate)** <br>
   R labs & Problem sessions <br>
