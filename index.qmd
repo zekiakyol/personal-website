@@ -27,11 +27,11 @@ I am a Research Assistant in the Department of Economics at Istanbul Technical U
 ##### **Research Fields**
 
 - Applied Microeconomics
-- Econometrics
+- Econometrics & Causal Inference
 
 ##### **Computer Skills**
 
-- R, Stata, Python, Quarto & R Markdown, $\LaTeX$, Bash, git, SurveyCTO, Microsoft Office
+- R, Stata, Python, MATLAB, Quarto & R Markdown, $\LaTeX$, Bash, git, SurveyCTO, Microsoft Office
 
 ##### **Contact**
 
