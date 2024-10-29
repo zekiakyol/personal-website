@@ -43,4 +43,4 @@ Our syllabuses and application form are available at [github.com/zekiakyol/proof
 
 `r fa("calendar-days")` Term | `r fa("book")` Book | `r fa("hourglass-half")` Duration 
 :-- | :--: | :--:
-2023 Summer | An Introduction to Statistical Learning <br> - G. James, T. Hastie, D. Witten, R. Tibshirani, <br> J. Taylor (2nd Edition, 2023)| 12 Weeks
+2023 Summer | An Introduction to Statistical Learning <br> - G. James, T. Hastie, D. Witten, <br> R. Tibshirani, J. Taylor (2nd Edition, 2023) | 12 Weeks
