@@ -22,7 +22,10 @@ library(fontawesome)
 - **Research Assistant** to Assoc. Prof. Aysegul Kayaoglu `r fa("calendar-days")` (07/2020 - Present) <br>
   Istanbul Technical University
 
-- **Research Assistant** to Asst. Prof. Aysun Hiziroglu Aygun `r fa("calendar-days")` (11/2022 - 11/2023)<br>
+- **Research Assistant** to Asst. Prof. Umut Kuruüzüm `r fa("calendar-days")` (06/2024 - 09/2024) <br>
+  Supply Chain Analysis of Cotton, in partnership with ICF and the U.S. Department of Labor.
+  
+- **Research Assistant** to Assoc. Prof. Aysun Hiziroglu Aygun `r fa("calendar-days")` (11/2022 - 11/2023)<br>
   Funded by Scientific and Technological Research Council of Turkey / TÜBİTAK-221S893 <br>
   Modeling and Simulation of Infectious Diseases from Epidemiological and Economic Perspectives Using Mathematical and Agent-Based Methods, Prof. Hasan Güçlü
 
@@ -37,5 +40,4 @@ library(fontawesome)
   
 - **Field Translator** (English to Turkish, Turkish to English) `r fa("calendar-days")` (01/2020 - 02/2020) <br>
   Funded by Ministry of Science and Technology of Taiwan; MOST Young Scholar Fellowship / MOST 108-2636-H <br>
-  [`r fa("link")` A. Kayaoglu, Z. S. Mencutek, C. A. Chang (2022), Challenges and Resilience Strategies of Urban Refugee Entrepreneurs. *ERF Working Paper*.](https://erf.org.eg/app/uploads/2022/11/1669471123_983_630192_1601.pdf){target="_blank"} <br>
   [`r fa("link")` C. A. Chang (2021), The Economically Rich Refugees: A Case Study of the Business Operations of Istanbul-based Syrian Refugee Businesspeople. *International Migration.*](https://onlinelibrary.wiley.com/doi/10.1111/imig.12886){target="_blank"}
