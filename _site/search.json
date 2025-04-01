@@ -1,52 +1,31 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Zeki Akyol",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching Experience",
     "section": "",
-    "text": "Twitter\n  \n  \n    \n     GitHub\n  \n  \n    \n     YouTube\n  \n\n  \n  \n\nAbout\nI am a Research Assistant in the Department of Economics at Istanbul Technical University, Turkey.\n\n\nResearch Fields\n\nLabor Economics, Development Economics, Applied Microeconomics\nEconometrics & Causal Inference\n\n\n\nComputer Skills\n\nR, Stata, Python, MATLAB, Quarto & R Markdown, \\(\\LaTeX\\), Bash, git, SurveyCTO, Microsoft Office\n\n\n\nContact\nakyolz19 [at] itu [dot] edu [dot] tr"
+    "text": "These are the logos I designed for the courses.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Istanbul Technical University, Teaching Assistant\n\nFall 24  Principles to Microeconomics (Undergraduate)  Problem sessions \nFall 20, 21, 22, 23  Econometrics-I (Undergraduate)  R labs & Problem sessions \nSpring 20, 21, 22, 23  Econometrics-II (Undergraduate)  R labs & Problem sessions \nFall 20, 21, 22  Research Methods in Economics-I (Master’s)  R labs & Problem sessions \nSpring 20, 21, 22  Research Methods in Economics-II (Master’s)  R labs & Problem sessions \nSpring 22  Advanced Econometrics (PhD)  Proofreading R labs \nSpring 23  Introduction to Scientific and Engineering Computing (Undergraduate)  Python labs \nFall 21, 23, 24; Spring 25  Introduction to Prog. Lang. Python (Undergraduate)  Python labs \nFall 22  Statistical Methods in Economics (Undergraduate)  R labs & Problem sessions \nFall 21  Mathematical Economics (Undergraduate)  Problem sessions \nSpring 21, 25  Intermediate Macroeconomics (Undergraduate)  Problem sessions \nSpring-Summer-Fall 20, 21, 22, 23  Economics (Undergraduate)  Exams for ~1500 students \n\n\n\n Istanbul Technical University, Organizer\n\nSummer 23  Math Camp (Incoming PhD and Master’s students)  Proof techniques, real analysis, and linear algebra"
+  },
+  {
+    "objectID": "reading.html",
+    "href": "reading.html",
+    "title": "Reading Groups",
+    "section": "",
+    "text": "I organize two long-term online reading groups.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProof-Based Math Readings\nProof-Based Math Readings is a free and independent online reading group where we study mathematics required in economics master’s/PhD programs using an intuitive approach.\nOur syllabuses and application form are available at github.com/zekiakyol/proof-based-math-readings\n\n\n\n Term\n Syllabus\n Book\n Duration\n\n\n\n\n2026 Summer\nMeasure Theory\nMeasure, Integration & Real Analysis  - Sheldon Axler (2025)\n12 Weeks\n\n\n2026 Summer\nGraph Theory\nA First Course in Graph Theory  - Gary Chartrand, Ping Zhang (2012)\n12 Weeks\n\n\n2026 Summer\nNumerical  Linear Algebra\nNumerical Linear Algebra  - Lloyd N. Trefethen, David Bau III (2022)\n12 Weeks\n\n\n2025 Summer\nAlgorithms\nIntroduction to Algorithms  - T. Cormen, C. Leiserson,  R. Rivest, C. Stein (4th Edition, 2022)\n12 Weeks\n\n\n2025 Spring\nOptimization\nA First Course in Optimization Theory  - Rangarajan K. Sundaram (1996)\n12 Weeks\n\n\n2024 Winter\nBayesian  Statistics\nBayesian Econometrics  - Gary Koop (2003)\n12 Weeks\n\n\n2024 Fall\nMeasure  Theoretic  Probability\nA First Look at Rigorous Probability Theory  - Jeffrey S. Rosenthal (2nd Edition, 2006)\n12 Weeks\n\n\n2024 Summer\nLarge Sample  Theory\nElements of Large-Sample Theory  - E. L. Lehmann (1999)\n12 Weeks\n\n\n2024 Summer\nStatistics\nStatistical Inference  - George Casella, Roger Berger (2nd Edition, 2024)\n12 Weeks\n\n\n2024 Spring\nLinear Algebra\nLinear Algebra Done Right  - Sheldon Axler (4th Edition, 2025)\n12 Weeks\n\n\n2023 Winter\nTopology\nTopology  - James Munkres (2nd Edition, 2014)\n12 Weeks\n\n\n2023 Fall\nMatrix Algebra\nMatrix Algebra  - Karim M. Abadir, Jan R. Magnus (2005)\n12 Weeks\n\n\n2023 Summer\nReal Analysis\nBasic Analysis I  - Jiri Lebl (Version 6.1, 2024)\n12 Weeks\n\n\n2023 Summer\nProof Techniques\nBook of Proof  - Richard Hammack (3.4 Edition, 2025)\n12 Weeks\n\n\n\n\n\nMachine Learning Readings\n\n\n\n\n\n\n\n\n Term\n Book\n Duration\n\n\n\n\n2023 Summer\nAn Introduction to Statistical Learning  - G. James, T. Hastie, D. Witten,  R. Tibshirani, J. Taylor (2nd Edition, 2023)\n12 Weeks"
   },
   {
     "objectID": "blog.html",
     "href": "blog.html",
     "title": "Blog (in progress)",
     "section": "",
-    "text": "Understanding Missing Values in Regression\n\n\nAn example in R to avoid common pitfalls\n\n\n\n\nR\n\n\nMissing Values\n\n\nRegression\n\n\n\n\n\n\n\n\n\n\n\nZeki Akyol\n\n\n\n\n\n\nNo matching items"
+    "text": "Understanding Missing Values in Regression\n\n\nAn example in R to avoid common pitfalls\n\n\n\nR\n\n\nMissing Values\n\n\nRegression\n\n\n\n\n\n\n\n\n\nZeki Akyol\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Stay tuned!",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Zeki Akyol",
     "section": "",
-    "text": "."
-  },
-  {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching Experience",
-    "section": "",
-    "text": "These are the logos I designed for the courses.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Istanbul Technical University, Teaching Assistant\n\nFall 24  Principles to Microeconomics (Undergraduate)  Problem sessions \nFall 20, 21, 22, 23  Econometrics-I (Undergraduate)  R labs & Problem sessions \nSpring 20, 21, 22, 23  Econometrics-II (Undergraduate)  R labs & Problem sessions \nFall 20, 21, 22  Research Methods in Economics-I (Master’s)  R labs & Problem sessions \nSpring 20, 21, 22  Research Methods in Economics-II (Master’s)  R labs & Problem sessions \nSpring 22  Advanced Econometrics (PhD)  Proofreading R labs \nSpring 23  Introduction to Scientific and Engineering Computing (Undergraduate)  Python labs \nFall 21, 23, 24  Introduction to Prog. Lang. Python (Undergraduate)  Python labs \nFall 22  Statistical Methods in Economics (Undergraduate)  R labs & Problem sessions \nFall 21  Mathematical Economics (Undergraduate)  Problem sessions \nSpring 21  Intermediate Macroeconomics (Undergraduate)  Problem sessions \nSpring-Summer-Fall 20, 21, 22, 23  Economics (Undergraduate)  Exams for ~1500 students \n\n\n\n Istanbul Technical University, Organizer\n\nSummer 23  Math Camp (Incoming PhD and Master’s students)  Proof techniques, real analysis, and linear algebra"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "R Companion for Introduction to Econometrics (Stock and Watson, 4th Edition 2019)  (Expected 2025)  with Asst. Prof. Osman Dogan and Assoc. Prof. Suleyman Taspinar\n Solution Manual for Book of Proof - Richard Hammack (3.3 Edition, 2022)  (Expected 2025)  Progress: 95%\n\nResearch Experience\n\nResearch Assistant at Department of Economics  (03/2021 - Present)  Istanbul Technical University\nResearch Assistant to Assoc. Prof. Aysegul Kayaoglu  (07/2020 - Present)  Istanbul Technical University\nResearch Assistant to Asst. Prof. Umut Kuruüzüm  (06/2024 - 09/2024)  Supply Chain Analysis of Cotton, in partnership with ICF and the U.S. Department of Labor.\nResearch Assistant to Assoc. Prof. Aysun Hiziroglu Aygun  (11/2022 - 11/2023) Funded by Scientific and Technological Research Council of Turkey / TÜBİTAK-221S893  Modeling and Simulation of Infectious Diseases from Epidemiological and Economic Perspectives Using Mathematical and Agent-Based Methods, Prof. Hasan Güçlü\nResearch Assistant to Assoc. Prof. Aysegul Kayaoglu  (10/2021 - 07/2022)  UNICEF Turkey, Consultancy on Child Labor Legislation and Policy Improvement\nField Research Assistant  (11/2020 - 01/2021)   A. Kayaoglu (2021), A Youth Centered Participatory Assessment in Turkey: Understanding Refugee and Host Community Youth’s Perceptions, Challenges and Needs. London, Save the Children International.\nData Coding Team  (02/2020 - 03/2020)   A. Kayaoglu (2021), A Gender-sensitive Study on Urban Child Labor in Istanbul. London, Save the Children International.\nField Translator (English to Turkish, Turkish to English)  (01/2020 - 02/2020)  Funded by Ministry of Science and Technology of Taiwan; MOST Young Scholar Fellowship / MOST 108-2636-H   C. A. Chang (2021), The Economically Rich Refugees: A Case Study of the Business Operations of Istanbul-based Syrian Refugee Businesspeople. International Migration."
-  },
-  {
-    "objectID": "posts/stay-tuned/index.html",
-    "href": "posts/stay-tuned/index.html",
-    "title": "Stay tuned!",
-    "section": "",
-    "text": "."
+    "text": "Twitter\n  \n  \n    \n     GitHub\n  \n  \n    \n     YouTube\n  \n\n  \n  \n\nAbout\nI am a Research Assistant in the Department of Economics at Istanbul Technical University, Turkey.\n\n\nResearch Fields\n\nLabor Economics, Development Economics, Applied Microeconomics\nEconometrics & Causal Inference\n\n\n\nComputer Skills\n\nR, Stata, Python, MATLAB, Quarto & R Markdown, \\(\\LaTeX\\), Bash, git, SurveyCTO, Microsoft Office\n\n\n\nContact\nakyolz19 [at] itu [dot] edu [dot] tr"
   },
   {
     "objectID": "posts/understanding-missing-values-in-regression/index.html",
@@ -56,38 +35,10 @@
     "text": "This blog post is about understanding missing value mechanism in a regression setting. After understanding this machanism, I will mention common pitfalls to aviod in data subsetting.\n[Under construction for now!]"
   },
   {
-    "objectID": "posts/understanding-missing-values-in-regression/index.html#appendix",
-    "href": "posts/understanding-missing-values-in-regression/index.html#appendix",
-    "title": "Understanding Missing Values in Regression",
-    "section": "5.1 Appendix",
-    "text": "5.1 Appendix\nI can fill this with regular Markdown. This is bold. This is italic.\nAlso, code chunks work.\n\nlibrary(ggplot2)\nmpg |>\n  ggplot(aes(hwy, cty)) +\n  geom_jitter()\n\n\n\n\n\n\n\n\n(Remove # and . in {.r}. It’s only here for the demo. Without it, this is a nested code block. And this does not render well.)"
-  },
-  {
-    "objectID": "reading.html",
-    "href": "reading.html",
-    "title": "Reading Groups",
-    "section": "",
-    "text": "I organize two long-term online reading groups.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProof-Based Math Readings\nProof-Based Math Readings is a free and independent online reading group where we study mathematics required in economics master’s/PhD programs using an intuitive approach.\nOur syllabuses and application form are available at github.com/zekiakyol/proof-based-math-readings\n\n\n\n Term\n Syllabus\n Book\n Duration\n\n\n\n\n2026 Summer\nAlgorithms\nIntroduction to Algorithms  - T. Cormen, C. Leiserson,  R. Rivest, C. Stein (4th Edition, 2022)\n12 Weeks\n\n\n2025 Summer\nGraph Theory\nA First Course in Graph Theory  - Gary Chartrand, Ping Zhang (2012)\n12 Weeks\n\n\n2025 Summer\nMeasure Theory\nMeasure, Integration & Real Analysis  - Sheldon Axler (2024)\n12 Weeks\n\n\n2025 Summer\nNumerical  Linear Algebra\nNumerical Linear Algebra  - Lloyd N. Trefethen, David Bau III (2022)\n12 Weeks\n\n\n2025 Spring\nOptimization\nA First Course in Optimization Theory  - Rangarajan K. Sundaram (1996)\n12 Weeks\n\n\n2024 Winter\nBayesian  Statistics\nBayesian Econometrics  - Gary Koop (2003)\n12 Weeks\n\n\n2024 Fall\nMeasure  Theoretic  Probability\nA First Look at Rigorous Probability Theory  - Jeffrey S. Rosenthal (2nd Edition, 2006)\n12 Weeks\n\n\n2024 Summer\nLarge Sample  Theory\nElements of Large-Sample Theory  - E. L. Lehmann (1999)\n12 Weeks\n\n\n2024 Summer\nStatistics\nStatistical Inference  - George Casella, Roger Berger (2nd Edition, 2024)\n12 Weeks\n\n\n2024 Spring\nLinear Algebra\nLinear Algebra Done Right  - Sheldon Axler (4th Edition, 2024)\n12 Weeks\n\n\n2023 Winter\nTopology\nTopology  - James Munkres (2nd Edition, 2014)\n12 Weeks\n\n\n2023 Fall\nMatrix Algebra\nMatrix Algebra  - Karim M. Abadir, Jan R. Magnus (2005)\n12 Weeks\n\n\n2023 Summer\nReal Analysis\nBasic Analysis I  - Jiri Lebl (Version 6.1, 2024)\n12 Weeks\n\n\n2023 Summer\nProof Techniques\nBook of Proof  - Richard Hammack (3.3 Edition, 2022)\n12 Weeks\n\n\n\n\n\nMachine Learning Readings\n\n\n\n\n\n\n\n\n Term\n Book\n Duration\n\n\n\n\n2023 Summer\nAn Introduction to Statistical Learning  - G. James, T. Hastie, D. Witten, R. Tibshirani,  J. Taylor (2nd Edition, 2023)\n12 Weeks"
-  },
-  {
-    "objectID": "photos.html",
-    "href": "photos.html",
-    "title": "Photos",
-    "section": "",
-    "text": "The Purest of Doggos\n\n\n\n<img class='grid-item grid-item-1' src='photos/image1.png?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>\n<p>\"I'm so happy today!\"</p>\n\n\n<img class='grid-item grid-item-2' src='https://images.unsplash.com/photo-1517423440428-a5a00ad493e8?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>\n<p>\"I see those nugs.\"</p>\n\n\n<img class='grid-item grid-item-3' src='https://images.unsplash.com/photo-1510771463146-e89e6e86560e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>\n<p>\"I love you so much!\"</p>\n\n\n<img class='grid-item grid-item-4' src='https://images.unsplash.com/photo-1507146426996-ef05306b995a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>\n<p>\"I'm the baby of the house!\"</p>\n\n\n<img class='grid-item grid-item-5' src='https://images.unsplash.com/photo-1530281700549-e82e7bf110d6?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>\n<p>\"Are you gunna throw the ball?\"</p>\n\n\n<img class='grid-item grid-item-6' src='https://images.unsplash.com/photo-1548199973-03cce0bbc87b?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>\n<p>\"C'mon friend!\"</p>\n\n\n<img class='grid-item grid-item-7' src='https://images.unsplash.com/photo-1552053831-71594a27632d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>\n<p>\"A rose for mommy!\"</p>\n\n\n<img class='grid-item grid-item-8' src='https://images.unsplash.com/photo-1518717758536-85ae29035b6d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>\n<p>\"You gunna finish that?\"</p>\n\n\n<img class='grid-item grid-item-9' src='https://images.unsplash.com/photo-1535930891776-0c2dfb7fda1a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>\n<p>\"We can't afford a cat!\"</p>\n\n\n<img class='grid-item grid-item-10' src='https://images.unsplash.com/photo-1504595403659-9088ce801e29?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>\n<p>\"Dis my fren!\"</p>"
-  },
-  {
-    "objectID": "research.html#books",
-    "href": "research.html#books",
+    "objectID": "research.html",
+    "href": "research.html",
     "title": "Research",
-    "section": "Books",
-    "text": "Books\n R Companion: Introduction to Econometrics (Stock and Watson, 4th Edition 2019)  (Expected 24)  with Asst. Prof. Osman Dogan and Assoc. Prof. Suleyman Taspinar\n Solution Manual: Book of Proof - Richard Hammack (3.3 Edition, 2022)  (Expected 2024)  Progress: 95%"
-  },
-  {
-    "objectID": "research.html#book",
-    "href": "research.html#book",
-    "title": "Research",
-    "section": "Book",
-    "text": "Book\n\nR Companion: Introduction to Econometrics (Stock and Watson, 4th Edition 2019)  (Expected 24)  with Asst. Prof. Osman Dogan and Assoc. Prof. Suleyman Taspinar\nSolution Manual: Book of Proof - Richard Hammack (3.3 Edition, 2022)  (Expected 2024)  Progress: 95%"
+    "section": "",
+    "text": "R Companion for Introduction to Econometrics (Stock and Watson, 4th Edition 2019)  (Expected 2025)  with Assoc. Prof. Osman Dogan and Assoc. Prof. Suleyman Taspinar\n Solution Manual for Book of Proof - Richard Hammack (3.4 Edition, 2025)  (Expected 2025)  Progress: 95%\n\nResearch Experience\n\nResearch Assistant at Department of Economics  (03/2021 - Present)  Istanbul Technical University\nResearch Assistant to Assoc. Prof. Aysegul Kayaoglu  (07/2020 - Present)  Istanbul Technical University\nResearch Assistant to Asst. Prof. Umut Kuruüzüm  (06/2024 - 09/2024)  Supply Chain Analysis of Cotton, in partnership with ICF and the U.S. Department of Labor.\nResearch Assistant to Assoc. Prof. Aysun Hiziroglu Aygun  (11/2022 - 11/2023) Funded by Scientific and Technological Research Council of Turkey / TÜBİTAK-221S893  Modeling and Simulation of Infectious Diseases from Epidemiological and Economic Perspectives Using Mathematical and Agent-Based Methods, Prof. Hasan Güçlü\nResearch Assistant to Assoc. Prof. Aysegul Kayaoglu  (10/2021 - 07/2022)  UNICEF Turkey, Consultancy on Child Labor Legislation and Policy Improvement\nField Research Assistant  (11/2020 - 01/2021)   A. Kayaoglu (2021), A Youth Centered Participatory Assessment in Turkey: Understanding Refugee and Host Community Youth’s Perceptions, Challenges and Needs. London, Save the Children International.\nData Coding Team  (02/2020 - 03/2020)   A. Kayaoglu (2021), A Gender-sensitive Study on Urban Child Labor in Istanbul. London, Save the Children International.\nField Translator (English to Turkish, Turkish to English)  (01/2020 - 02/2020)  Funded by Ministry of Science and Technology of Taiwan; MOST Young Scholar Fellowship / MOST 108-2636-H   C. A. Chang (2021), The Economically Rich Refugees: A Case Study of the Business Operations of Istanbul-based Syrian Refugee Businesspeople. International Migration."
   }
 ]

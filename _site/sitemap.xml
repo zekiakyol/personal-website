@@ -1,43 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://zekiakyol.com/index.html</loc>
-    <lastmod>2024-12-07T14:32:23.471Z</lastmod>
-  </url>
-  <url>
     <loc>https://zekiakyol.com/teaching.html</loc>
-    <lastmod>2024-10-11T17:54:21.131Z</lastmod>
-  </url>
-  <url>
-    <loc>https://zekiakyol.com/blog.html</loc>
-    <lastmod>2024-08-16T18:57:41.007Z</lastmod>
-  </url>
-  <url>
-    <loc>https://zekiakyol.com/research.html</loc>
-    <lastmod>2024-12-07T14:45:47.401Z</lastmod>
-  </url>
-  <url>
-    <loc>https://zekiakyol.com/posts/welcome/index.html</loc>
-    <lastmod>2022-08-05T23:37:14.158Z</lastmod>
-  </url>
-  <url>
-    <loc>https://zekiakyol.com/posts/post-with-code/index.html</loc>
-    <lastmod>2022-08-06T00:15:04.027Z</lastmod>
-  </url>
-  <url>
-    <loc>https://zekiakyol.com/posts/stay-tuned/index.html</loc>
-    <lastmod>2022-08-06T09:09:45.019Z</lastmod>
-  </url>
-  <url>
-    <loc>https://zekiakyol.com/posts/understanding-missing-values-in-regression/index.html</loc>
-    <lastmod>2023-11-17T09:11:18.240Z</lastmod>
+    <lastmod>2025-04-01T15:50:07.068Z</lastmod>
   </url>
   <url>
     <loc>https://zekiakyol.com/reading.html</loc>
-    <lastmod>2024-10-29T07:07:19.792Z</lastmod>
+    <lastmod>2025-04-01T15:49:49.582Z</lastmod>
   </url>
   <url>
     <loc>https://zekiakyol.com/photos.html</loc>
-    <lastmod>2023-12-07T19:45:02.066Z</lastmod>
+    <lastmod>2025-04-01T16:26:34.847Z</lastmod>
+  </url>
+  <url>
+    <loc>https://zekiakyol.com/blog.html</loc>
+    <lastmod>2022-08-06T00:17:22.314Z</lastmod>
+  </url>
+  <url>
+    <loc>https://zekiakyol.com/index.html</loc>
+    <lastmod>2025-04-01T16:26:37.696Z</lastmod>
+  </url>
+  <url>
+    <loc>https://zekiakyol.com/posts/understanding-missing-values-in-regression/index.html</loc>
+    <lastmod>2022-08-24T20:20:27.887Z</lastmod>
+  </url>
+  <url>
+    <loc>https://zekiakyol.com/research.html</loc>
+    <lastmod>2025-04-01T15:50:01.298Z</lastmod>
   </url>
 </urlset>
