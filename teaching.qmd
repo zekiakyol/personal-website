@@ -47,7 +47,7 @@ These are the logos I designed for the courses.
   Problem sessions <br>
 - **Spring 21, 25** `r fa("calendar-days")` **Intermediate Macroeconomics (Undergraduate)** <br>
   Problem sessions <br>
-- **Spring-Summer-Fall 20, 21, 22, 23** `r fa("calendar-days")` **Economics (Undergraduate)** <br>
+- **Spring-Summer-Fall 20, 21, 22, 23, 24, 25** `r fa("calendar-days")` **Economics (Undergraduate)** <br>
   Exams for ~1500 students <br>
   
 ### `r fa("landmark")` **Istanbul Technical University, Organizer**
