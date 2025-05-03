@@ -15,11 +15,11 @@ Proof-Based Math Readings is a free and independent online reading group where w
 Our syllabuses and application form are available at [github.com/zekiakyol/proof-based-math-readings](https://github.com/zekiakyol/proof-based-math-readings){target="_blank"}
 
 ::: {.column width="100%"}
-![](logos_png/proofbasedmathreadings_logo_square.gif){fig-align="center" width="50%"}
+![](logos_png/proofbasedmathreadings_logo_square.gif){fig-align="center" width="60%"}
 :::
 
 
-`r fa("scroll")` Syllabus | `r fa("book")` Book | `r fa("hourglass-half")` Duration 
+`r fa("scroll")` Syllabus | `r fa("book")` Book | `r fa("hourglass-half")` Time
 :-- | :--: | :--:
 [Measure Theory](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_MeasureTheory_Syllabus.pdf){target="_blank"} | Measure, Integration & Real Analysis <br> - Sheldon Axler (2025) | 12 Weeks
 [Graph Theory](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_GraphTheory_Syllabus.pdf){target="_blank"} | A First Course in Graph Theory <br> - Gary Chartrand, Ping Zhang (2012)| 12 Weeks
