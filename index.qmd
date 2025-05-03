@@ -5,7 +5,7 @@ image: profile.png
 about:
   id: hero-heading
   template: trestles
-  image-width: 15em
+  image-width: 20em
   image-shape: round
   links:
     - icon: twitter
@@ -22,16 +22,17 @@ about:
 :::{#hero-heading}
 ##### **About**
 
-I am a Research Assistant in the Department of Economics at Istanbul Technical University, Turkey.
+I am a Research Assistant in the Department of Economics at Istanbul Technical University.
 
 ##### **Research Fields**
 
-- Labor Economics, Development Economics, Applied Microeconomics
-- Econometrics & Causal Inference
+- Applied Microeconomics (Development/Labor Economics)
+- Econometrics (Causal Inference)
 
-##### **Computer Skills**
+##### **Software**
 
-- R, Stata, Python, MATLAB, Quarto & R Markdown, $\LaTeX$, Bash, git, SurveyCTO, Microsoft Office
+- R, Stata, Python, MATLAB, Bash, git
+- Quarto & R Markdown, $\LaTeX$, SurveyCTO, CSPro
 
 ##### **Contact**
 
