@@ -28,13 +28,14 @@ Currently Research Assistant in the Department of Economics at Istanbul Technica
 
 ##### **Research Fields**
 
-- Applied Microeconomics (Development/Labor Economics)
+- Applied Microeconomics (Development/Labor)
 - Econometrics (Causal Inference)
 
 ##### **Software**
 
 - R, Stata, Python, MATLAB, Bash, git
-- Quarto & R Markdown, $\LaTeX$, SurveyCTO, CSPro
+- Quarto & R Markdown, $\LaTeX$
+- SurveyCTO, CSPro
 
 ##### **Contact**
 
