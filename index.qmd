@@ -22,7 +22,9 @@ about:
 :::{#hero-heading}
 ##### **About**
 
-I am a Research Assistant in the Department of Economics at Istanbul Technical University.
+Incoming PhD student in Economics at the University of California, Santa Cruz.
+
+Currently Research Assistant in the Department of Economics at Istanbul Technical University.
 
 ##### **Research Fields**
 

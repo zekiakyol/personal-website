@@ -18,7 +18,6 @@ Our syllabuses and application form are available at [github.com/zekiakyol/proof
 ![](logos_png/proofbasedmathreadings_logo_square.gif){fig-align="center" width="60%"}
 :::
 
-
 `r fa("scroll")` Syllabus | `r fa("book")` Book | `r fa("hourglass-half")` Time
 :-- | :--: | :--:
 [Algorithms](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_Algorithms_Syllabus.pdf){target="_blank"} | Introduction to Algorithms <br> - T. Cormen, C. Leiserson, R. Rivest, C. Stein (4th Edition, 2022) | 12 Weeks
@@ -33,5 +32,5 @@ Our syllabuses and application form are available at [github.com/zekiakyol/proof
 [Linear Algebra](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_LinearAlgebra_Syllabus.pdf){target="_blank"} | Linear Algebra Done Right <br> - Sheldon Axler (4th Edition, 2025) | 12 Weeks
 [Measure Theory](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_MeasureTheory_Syllabus.pdf){target="_blank"} | Measure, Integration & Real Analysis <br> - Sheldon Axler (2025) | 12 Weeks
 [Topology](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_Topology_Syllabus.pdf){target="_blank"} | Topology <br> - James Munkres (2nd Edition, 2014) | 12 Weeks
-[Real Analysis](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_RealAnalysis_Syllabus.pdf){target="_blank"} | Basic Analysis I <br> - Jiri Lebl (Version 6.1, 2024) | 12 Weeks
+[Real Analysis](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_RealAnalysis_Syllabus.pdf){target="_blank"} | Basic Analysis I <br> - Jiri Lebl (Version 6.2, 2025) | 12 Weeks
 [Proof Techniques](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_ProofTechniques_Syllabus.pdf){target="_blank"} | Book of Proof <br> - Richard Hammack (3.4 Edition, 2025) | 12 Weeks
