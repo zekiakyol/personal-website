@@ -22,9 +22,9 @@ about:
 :::{#hero-heading}
 ##### **About**
 
-Incoming PhD student in Economics at the University of California, Santa Cruz.
+Incoming Economics PhD student at the University of California, Santa Cruz.
 
-Currently Research Assistant in the Department of Economics at Istanbul Technical University.
+Former Research Assistant in the Department of Economics at Istanbul Technical University.
 
 ##### **Research Fields**
 
@@ -39,5 +39,5 @@ Currently Research Assistant in the Department of Economics at Istanbul Technica
 
 ##### **Contact**
 
-**akyolz19** [at] **itu** [dot] **edu** [dot] **tr**
+- **zakyol** [at] **ucsc** (dot) **edu**
 :::
