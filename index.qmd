@@ -34,7 +34,7 @@ Former Research Assistant in the Department of Economics at Istanbul Technical U
 ##### **Software**
 
 - R, Stata, Python, MATLAB, Bash, git
-- Quarto & R Markdown, $\LaTeX$
+- Quarto, R Markdown, $\LaTeX$
 - SurveyCTO, CSPro
 
 ##### **Contact**

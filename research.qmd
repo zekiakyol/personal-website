@@ -8,11 +8,10 @@ page-layout: full
 library(fontawesome)
 ```
 
-`r fa("book")` R Companion for Introduction to Econometrics (Stock and Watson, 4th Edition 2019) `r fa("calendar-days")` (Expected 2026) <br>
-  with Osman Dogan and Suleyman Taspinar
+# Work in Progress
 
-`r fa("book")` Solution Manual for Book of Proof - Richard Hammack (3.4 Edition, 2025) `r fa("calendar-days")` (Expected 2026) <br>
-  Progress: 95%
+`r fa("scroll")` The Long-term Impact of Refugees in Labor Market: Evidence from Syrian Refugees in Turkey <br>
+  (with Aysegul Kayaoglu)
   
 # Research Experience
 
@@ -23,10 +22,10 @@ library(fontawesome)
   Istanbul Technical University
 
 - **Research Assistant (Data Quality Lead)** to Umut Kuruüzüm `r fa("calendar-days")` (06/2025 - 08/2025) <br>
-  Supply Chain Analysis of Tobacco, in partnership with ICF and the U.S. Department of Labor.
+  Supply Chain and Child Labor Analysis in Tobacco, in partnership with ICF and the U.S. Department of Labor
   
 - **Research Assistant (Data Quality Lead)** to Umut Kuruüzüm `r fa("calendar-days")` (06/2024 - 09/2024) <br>
-  Supply Chain Analysis of Cotton, in partnership with ICF and the U.S. Department of Labor.
+  Supply Chain and Child Labor Analysis in Cotton, in partnership with ICF and the U.S. Department of Labor
   
 - **Research Assistant** to Aysun Hiziroglu Aygun `r fa("calendar-days")` (11/2022 - 11/2023)<br>
   Funded by Scientific and Technological Research Council of Turkey / TÜBİTAK-221S893 (Hasan Güçlü) <br>
@@ -44,3 +43,11 @@ library(fontawesome)
 - **Research Assistant (Field Translator, English-Turkish)** `r fa("calendar-days")` (01/2020 - 02/2020) <br>
   Funded by Ministry of Science and Technology of Taiwan; MOST Young Scholar Fellowship / MOST 108-2636-H <br>
   [`r fa("link")` C. A. Chang (2021), The Economically Rich Refugees: A Case Study of the Business Operations of Istanbul-based Syrian Refugee Businesspeople. *International Migration.*](https://onlinelibrary.wiley.com/doi/10.1111/imig.12886){target="_blank"}
+
+# Book
+
+`r fa("book")` R Companion for Introduction to Econometrics (Stock and Watson, 4th Edition 2019) `r fa("calendar-days")` (Expected 2026) <br>
+  (with Osman Dogan and Suleyman Taspinar)
+
+`r fa("book")` Solution Manual for Book of Proof - Richard Hammack (3.4 Edition, 2025) `r fa("calendar-days")` (Expected 2026) <br>
+  Progress: 95%
