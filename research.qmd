@@ -1,6 +1,6 @@
 ---
 title: "Research"
-page-layout: full
+page-layout: article
 ---
 
 ```{r}
@@ -41,7 +41,7 @@ library(fontawesome)
   [`r fa("link")` A. Kayaoglu (2021), A Gender-sensitive Study on Urban Child Labor in Istanbul. *London, Save the Children International.*](https://resourcecentre.savethechildren.net/document/gender-sensitive-study-urban-child-labour-istanbul){target="_blank"}
   
 - **Research Assistant (Field Translator, English-Turkish)** `r fa("calendar-days")` (01/2020 - 02/2020) <br>
-  Funded by Ministry of Science and Technology of Taiwan; MOST Young Scholar Fellowship / MOST 108-2636-H <br>
+  Funded by Ministry of Science and Technology of Taiwan; MOST Young Scholar Fellowship / 108-2636-H <br>
   [`r fa("link")` C. A. Chang (2021), The Economically Rich Refugees: A Case Study of the Business Operations of Istanbul-based Syrian Refugee Businesspeople. *International Migration.*](https://onlinelibrary.wiley.com/doi/10.1111/imig.12886){target="_blank"}
 
 # Book

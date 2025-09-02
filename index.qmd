@@ -11,6 +11,12 @@ about:
     - icon: twitter
       text: Twitter
       href: https://x.com/zekiakyol0
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/zekiakyol.bsky.social
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/zekiakyol
     - icon: github
       text: GitHub
       href: https://github.com/zekiakyol
@@ -22,7 +28,7 @@ about:
 :::{#hero-heading}
 ##### **About**
 
-Incoming Economics PhD student at the University of California, Santa Cruz.
+First-year Economics PhD student at the University of California, Santa Cruz.
 
 Former Research Assistant in the Department of Economics at Istanbul Technical University.
 

@@ -3,8 +3,7 @@ title: "Understanding Missing Values in Regression"
 subtitle: "An example in R to avoid common pitfalls"
 author: 
   - name: "Zeki Akyol"
-    affiliations: "Department of Economics, Istanbul Technical University"
-#date: "September, 2022"
+#date: "September, 2025"
 categories: [R, Missing Values, Regression]
 image: https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif
 highlight-style: tango

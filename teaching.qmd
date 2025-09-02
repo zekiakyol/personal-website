@@ -24,6 +24,9 @@ These are the logos I designed for the courses.
 ![](logos_png/advanced_econometrics_logo.png)
 :::
 
+### `r fa("landmark")` **University of California, Santa Cruz, Teaching Assistant**
+- **Fall 25** `r fa("calendar-days")` **Introduction to Macroeconomics (Undergraduate)**
+
 ### `r fa("landmark")` **Istanbul Technical University, Teaching Assistant**
 - **Fall 24** `r fa("calendar-days")` **Principles to Microeconomics (Undergraduate)** <br>
   Problem sessions <br>

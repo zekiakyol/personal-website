@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://zekiakyol.com/teaching.html</loc>
-    <lastmod>2025-08-04T05:13:29.065Z</lastmod>
+    <loc>https://zekiakyol.com/blog.html</loc>
+    <lastmod>2022-08-06T00:17:22.313Z</lastmod>
   </url>
   <url>
     <loc>https://zekiakyol.com/reading.html</loc>
-    <lastmod>2025-08-04T05:17:39.730Z</lastmod>
-  </url>
-  <url>
-    <loc>https://zekiakyol.com/photos.html</loc>
-    <lastmod>2025-06-02T05:57:43.060Z</lastmod>
-  </url>
-  <url>
-    <loc>https://zekiakyol.com/blog.html</loc>
-    <lastmod>2022-08-06T00:17:22.314Z</lastmod>
-  </url>
-  <url>
-    <loc>https://zekiakyol.com/index.html</loc>
-    <lastmod>2025-08-04T05:17:39.013Z</lastmod>
+    <lastmod>2025-09-02T04:53:19.196Z</lastmod>
   </url>
   <url>
     <loc>https://zekiakyol.com/posts/understanding-missing-values-in-regression/index.html</loc>
-    <lastmod>2022-08-24T20:20:27.887Z</lastmod>
+    <lastmod>2025-09-02T04:40:16.851Z</lastmod>
+  </url>
+  <url>
+    <loc>https://zekiakyol.com/teaching.html</loc>
+    <lastmod>2025-09-02T04:47:10.649Z</lastmod>
   </url>
   <url>
     <loc>https://zekiakyol.com/research.html</loc>
-    <lastmod>2025-08-04T05:20:35.297Z</lastmod>
+    <lastmod>2025-09-02T04:49:21.534Z</lastmod>
+  </url>
+  <url>
+    <loc>https://zekiakyol.com/index.html</loc>
+    <lastmod>2025-09-02T04:47:43.362Z</lastmod>
+  </url>
+  <url>
+    <loc>https://zekiakyol.com/photos.html</loc>
+    <lastmod>2025-06-02T05:57:43.059Z</lastmod>
   </url>
 </urlset>
