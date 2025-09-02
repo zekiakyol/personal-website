@@ -27,10 +27,14 @@ website:
       - text: "Blog"
         file: blog.qmd
     right:
-      - icon: github
-        href: https://github.com/zekiakyol
       - icon: twitter
         href: https://x.com/zekiakyol0
+      - icon: bluesky
+        href: https://bsky.app/profile/zekiakyol.bsky.social
+      - icon: linkedin
+        href: https://www.linkedin.com/in/zekiakyol
+      - icon: github
+        href: https://github.com/zekiakyol
       - icon: youtube
         href: https://www.youtube.com/@zekiakyol
 
