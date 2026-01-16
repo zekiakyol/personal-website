@@ -24,8 +24,6 @@ website:
         file: reading.qmd
       - text: "Photos"
         file: photos.qmd
-      - text: "Blog"
-        file: blog.qmd
     right:
       - icon: twitter
         href: https://x.com/zekiakyol0
