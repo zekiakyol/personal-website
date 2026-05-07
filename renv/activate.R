@@ -2,8 +2,8 @@
 local({
 
   # the requested version of renv
-  version <- "1.1.6"
-  attr(version, "md5") <- NULL
+  version <- "1.2.2"
+  attr(version, "md5") <- "bb69b6403b1bad0442657e9e8e57cc83"
   attr(version, "sha") <- NULL
 
   # the project directory
@@ -169,6 +169,16 @@ local({
     if (quiet)
       return(invisible())
   
+    # also check for config environment variables that should suppress messages
+    # https://github.com/rstudio/renv/issues/2214
+    enabled <- Sys.getenv("RENV_CONFIG_STARTUP_QUIET", unset = NA)
+    if (!is.na(enabled) && tolower(enabled) %in% c("true", "1"))
+      return(invisible())
+  
+    enabled <- Sys.getenv("RENV_CONFIG_SYNCHRONIZED_CHECK", unset = NA)
+    if (!is.na(enabled) && tolower(enabled) %in% c("false", "0"))
+      return(invisible())
+  
     msg <- sprintf(fmt, ...)
     cat(msg, file = stdout(), sep = if (appendLF) "\n" else "")
   
@@ -216,13 +226,17 @@ local({
     section <- header(sprintf("Bootstrapping renv %s", friendly))
     catf(section)
   
+    # ensure the target library path exists; required for file.copy(..., recursive = TRUE)
+    dir.create(library, showWarnings = FALSE, recursive = TRUE)
+  
     # try to install renv from cache
     md5 <- attr(version, "md5", exact = TRUE)
     if (length(md5)) {
       pkgpath <- renv_bootstrap_find(version)
       if (length(pkgpath) && file.exists(pkgpath)) {
-        file.copy(pkgpath, library, recursive = TRUE)
-        return(invisible())
+        ok <- file.copy(pkgpath, library, recursive = TRUE)
+        if (isTRUE(ok))
+          return(invisible())
       }
     }
   
@@ -266,22 +280,22 @@ local({
     # check for repos override
     repos <- Sys.getenv("RENV_CONFIG_REPOS_OVERRIDE", unset = NA)
     if (!is.na(repos)) {
-
+  
       # split on ';' if present
       parts <- strsplit(repos, ";", fixed = TRUE)[[1L]]
-
+  
       # split into named repositories if present
       idx <- regexpr("=", parts, fixed = TRUE)
       keys <- substring(parts, 1L, idx - 1L)
       vals <- substring(parts, idx + 1L)
       names(vals) <- keys
-
+  
       # if we have a single unnamed repository, call it CRAN
       if (length(vals) == 1L && identical(keys, ""))
         names(vals) <- "CRAN"
-
+  
       return(vals)
-
+  
     }
   
     # check for lockfile repositories
@@ -547,6 +561,12 @@ local({
   
     # infer path to renv cache
     cache <- Sys.getenv("RENV_PATHS_CACHE", unset = "")
+    if (!nzchar(cache)) {
+      root <- Sys.getenv("RENV_PATHS_ROOT", unset = NA)
+      if (!is.na(root))
+        cache <- file.path(root, "cache")
+    }
+  
     if (!nzchar(cache)) {
       tools <- asNamespace("tools")
       if (is.function(tools$R_user_dir)) {
@@ -1036,7 +1056,7 @@ local({
   
   renv_bootstrap_validate_version_release <- function(version, description) {
     expected <- description[["Version"]]
-    is.character(expected) && identical(expected, version)
+    is.character(expected) && identical(c(expected), c(version))
   }
   
   renv_bootstrap_hash_text <- function(text) {
@@ -1215,6 +1235,21 @@ local({
   }
   
   renv_bootstrap_run <- function(project, libpath, version) {
+    tryCatch(
+      renv_bootstrap_run_impl(project, libpath, version),
+      error = function(e) {
+        msg <- paste(
+          "failed to bootstrap renv: the project will not be loaded.",
+          paste("Reason:", conditionMessage(e)),
+          "Use `renv::activate()` to re-initialize the project.",
+          sep = "\n"
+        )
+        warning(msg, call. = FALSE)
+      }
+    )
+  }
+  
+  renv_bootstrap_run_impl <- function(project, libpath, version) {
   
     # perform bootstrap
     bootstrap(version, libpath)
