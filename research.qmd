@@ -43,11 +43,3 @@ library(fontawesome)
 - **Research Assistant (Field Translator, English-Turkish)** `r fa("calendar-days")` (01/2020 - 02/2020) <br>
   Funded by Ministry of Science and Technology of Taiwan; MOST Young Scholar Fellowship / 108-2636-H <br>
   [`r fa("link")` C. A. Chang (2021), The Economically Rich Refugees: A Case Study of the Business Operations of Istanbul-based Syrian Refugee Businesspeople. *International Migration.*](https://onlinelibrary.wiley.com/doi/10.1111/imig.12886){target="_blank"}
-
-# Book
-
-`r fa("book")` R Companion for Introduction to Econometrics (Stock and Watson, 4th Edition 2019) `r fa("calendar-days")` (Expected 2026) <br>
-  (with Osman Dogan and Suleyman Taspinar)
-
-`r fa("book")` Solution Manual for Book of Proof - Richard Hammack (3.4 Edition, 2025) `r fa("calendar-days")` (Expected 2026) <br>
-  Progress: 95%

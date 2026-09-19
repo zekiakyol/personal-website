@@ -20,9 +20,6 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/zekiakyol
-    - icon: youtube
-      text: YouTube
-      href: https://www.youtube.com/@zekiakyol
 ---
 
 :::{#hero-heading}
@@ -34,7 +31,7 @@ Former Research Assistant in the Department of Economics at Istanbul Technical U
 
 Outside of research, I enjoy lifting.
 
-My name and surname pronunciation:
+My name pronunciation:
 
 ```{=html}
 <audio controls controlsList="nodownload noplaybackrate">
@@ -45,17 +42,11 @@ My name and surname pronunciation:
 ##### **Research Fields**
 
 - Applied Microeconomics (Development/Labor)
-- Econometrics (Causal Inference)
-
-##### **Software**
-
-- R, Stata, Python, MATLAB, Bash, git
-- Quarto, R Markdown, $\LaTeX$
-- SurveyCTO, CSPro
+- Econometrics (ML, Causal Inference, Networks)
 
 ##### **Contact**
 
 - **zakyol** [at] **ucsc** (dot) **edu**
 
-Note: If you use a phone, the menu is at the top left.
+If you use a phone, the menu is at the top left.
 :::
