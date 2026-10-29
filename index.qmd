@@ -25,7 +25,7 @@ about:
 :::{#hero-heading}
 ##### **About**
 
-First-year Economics PhD student at the University of California, Santa Cruz.
+Second-year Economics PhD student at the University of California, Santa Cruz.
 
 Former Research Assistant in the Department of Economics at Istanbul Technical University.
 
